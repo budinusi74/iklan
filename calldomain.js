@@ -1,4 +1,5 @@
 function xtogeltoto() {window.open("https://noblockss.blogspot.com/");}
+function xfungame777() {window.open("https://fungame777liga.org/");}
 function xluxury333() {window.open("https://luxury333baik.com/");}
 function xibosport() {window.open("https://v2ibowin.me/");}
 function xslotmacau188() {window.open("https://slotmacau188link.today/");}
