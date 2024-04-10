@@ -3,7 +3,17 @@
   height:70px;
   width: 100%;
 }   
-  
+.groupsaman {
+  background-color:#5f7475;
+  color:#fff;
+  font-size:17px;
+  padding: 0 0px;
+  margin:3px;
+  float: left;
+  height:50px;
+  width: 19.0%;
+} 
+
  .groupsaman {
   background-color:#2c753f;
   color:#fff;
