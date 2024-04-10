@@ -3,7 +3,7 @@ function xfungame777() {window.open("https://fungame777liga.org/");}
 function xluxury333() {window.open("https://luxury333baik.com/");}
 function xibosport() {window.open("https://v2ibowin.me/");}
 function xslotmacau188() {window.open("https://slotmacau188link.today/");}
-function xpiontogel() {window.open("https://piongege.com/");}reject change pass
+function xpiontogel() {window.open("https://piongege.com/");}
 function xtektok77() {window.open("https://tektok77testi.com/");}
 function xdauntogel() {window.open("https://pucukdaun.com/link.php?member=rakuyaba");}
 function xindogenting() {window.open("https://www.indogenting0324e.com/");}
