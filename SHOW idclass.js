@@ -1,8 +1,7 @@
 $(document).ready(function(){
-
-$("#AA0").click(function(){
-$(".top").show();
-$(".hide").hide();
+  
+$("#show").click(function(){
+$("div, #0, #1, #2, #3").show();
 });  
 $("#AA1").click(function(){
 $("div, #1").show();
@@ -12,7 +11,8 @@ $("#AA2").click(function(){
 $("div, #2, #3").show();
 $("#0, #1").hide();
 });
-$("#show").click(function(){
-$("div, #0, #1, #2, #3").show();
+$("#AA3").click(function(){
+$(".bahaya").show();
+$(".aman, .waspada").hide();
 });
 });
