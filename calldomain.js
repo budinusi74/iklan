@@ -3,7 +3,7 @@ function xfungame777() {window.open("https://fungame777liga.org/");}
 function xluxury333() {window.open("https://luxury333baik.com/");}
 function xibosport() {window.open("https://v2ibowin.me/");}
 function xslotmacau188() {window.open("https://slotmacau188link.today/");}
-function xpiontogel() {window.open("https://piongege.com/");}
+function xpiontogel() {window.open("https://piongege.com/");}reject change pass
 function xtektok77() {window.open("https://tektok77testi.com/");}
 function xdauntogel() {window.open("https://pucukdaun.com/link.php?member=rakuyaba");}
 function xindogenting() {window.open("https://www.indogenting0324e.com/");}
@@ -79,7 +79,7 @@ function xlembagatoto() {window.open("http://lembagatoto18.com/register?referral
 function xw77() {window.open("https://w-jamingacor.org/");}
 function xunoplay() {window.open("https://www.unoplay7s.com/register?ref=E48A47B5");}
 function xjoki55() {window.open("https://jokiaman.site/register?ref=COXGNBO1IS3");}
-function xauto177() {window.open("https://ckauto177.ink/?ref=rakuyaba");}
+function xauto177() {window.open("https://nosafetyy.blogspot.com/");}
 function x8bettingan() {window.open("https://bettingans.monster/register?ref=QZPZPBE00O4");}
 function xmegabandar() {window.open("https://megabandar11.xyz/register?ref=3173970");}
 function xtwinbet() {window.open("https://twinbet.click/");}
