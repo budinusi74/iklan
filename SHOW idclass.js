@@ -1,18 +1,19 @@
 $(document).ready(function(){
   
 $("#show").click(function(){
-$("div, #0, #1, #2, #3").show();
+$("div, .aman, .waspada, .bahaya").show();
+$(".modalbahaya1").hide();
 });  
-$("#AA1").click(function(){
-$("div, #1").show();
-$("#0, #2 #3").hide();
+$("#aman").click(function(){
+$("div, .aman").show();
+$(".waspada, .bahaya, .modalbahaya1").hide();
 });
-$("#AA2").click(function(){
-$("div, #2, #3").show();
-$("#0, #1").hide();
+$("#waspada").click(function(){
+$("div, .waspada").show();
+$(".aman, .bahaya, .modalbahaya1").hide();
 });
-$("#AA3").click(function(){
-$(".bahaya").show();
-$(".aman, .waspada").hide();
+$("#bahaya").click(function(){
+$("div, .bahaya").show();
+$(".aman, .waspada, .modalbahaya1").hide();
 });
 });
