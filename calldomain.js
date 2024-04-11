@@ -141,8 +141,7 @@ function xbetcoinasia() {window.open("https://nosafetyy.blogspot.com/");}
 function xjangkaslot() {window.open("https://noblockss.blogspot.com/");}
 function xno() {window.open("https://nosafetyy.blogspot.com/");}
 function xpphoki() {window.open("https://nosafetyy.blogspot.com/");}
-</script>
-<script>
+
 function myFunction() {
     var input, filter, ul, li, a, i, txtValue;
     input = document.getElementById("myInput");
