@@ -1,4 +1,5 @@
 function xtogeltoto() {window.open("https://noblockss.blogspot.com/");}
+function xjackpot168() {window.open("https://jackpot168joker.com/");}
 function xfungame777() {window.open("https://fungame777liga.org/");}
 function xluxury333() {window.open("https://luxury333baik.com/");}
 function xibosport() {window.open("https://v2ibowin.me/");}
@@ -103,7 +104,7 @@ function xmansion77() {window.open("https://www.mansions77.site/register?ref=422
 function xtatabet() {window.open("https://www.tatabet0324b.com/");}
 function xsatutogel() {window.open("https://xn--satutogel-yv6ni36m.com/");}
 function xlotto01() {window.open("https://rajaspin01.com/referral/BUNSIN");}
-function xdewatogel() {window.open("http://dwtseru.tech/register?referral_code=bunsin");}
+function xdewatogel() {window.open("https://nosafetyy.blogspot.com/");}
 function xsquad777() {window.open("https://lp.mainsquad777.click/register?ref=bunsin");}
 function xmpo888() {window.open("https://mpo888jepe.com/register/DB50318F");}
 function x8togel() {window.open("https://8tsantuy.com/referral/GACOR777");}
@@ -136,11 +137,12 @@ function xmpo369() {window.open("https://mpo369amanah.com/register/W7N46140");}
 function xfreebet() {window.open("https://freebetdemo.blogspot.com/");}
 function xchat1() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0");}
 function xchat() {window.open("https://www.facebook.com/profile.php?id=61553499868790");}
+function xbetcoinasia() {window.open("https://nosafetyy.blogspot.com/");}
 function xjangkaslot() {window.open("https://noblockss.blogspot.com/");}
 function xno() {window.open("https://nosafetyy.blogspot.com/");}
-
-
-
+function xpphoki() {window.open("https://nosafetyy.blogspot.com/");}
+</script>
+<script>
 function myFunction() {
     var input, filter, ul, li, a, i, txtValue;
     input = document.getElementById("myInput");
@@ -158,6 +160,15 @@ function myFunction() {
     }
 }
 
+// Get the modal
+var modalbahaya1 = document.getElementById('pdewatogel');
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modalbahaya1) {
+    modal.style.display = "none";
+  }
+}  
 
 //randomize order of contents with DIV class="group1"
 randomizeContent("acak")
