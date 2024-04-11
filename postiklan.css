@@ -1,3 +1,7 @@
+.warnabahaya {
+  color: red;
+}
+
 .cancelbtn, .deletebtn {
   float: left;
   height:50px;
