@@ -1,4 +1,4 @@
-<style>
+
 .cancelbtn, .deletebtn {
   float: left;
   width: 50%;
@@ -78,15 +78,4 @@ hr {
      width: 100%;
   }
 }  
-</style>
-<div id="pdewatogel" class="modalbahaya1">
-<span onclick="document.getElementById('pdewatogel').style.display='none'" class="close" title="Close Modal">×</span>
-<form class="modalbahaya1-content" action="/action_page.php">
-<div class="container">
-<h1>DEWATOGEL</h1>
-<p>Situs ini berbahaya dapat menyebabkan ketidak nyamanan bagi pemain menurut admin kami yang telah mencoba, apakah anda yakin ingin tetap masuk ?</p>
-<div class="clearfixbahaya">
-<button type="button"onclick="document.getElementById('pdewatogel').style.display='none'"class="cancelbtn">TIDAK</button>
-<button type="button" onclick="xtogeltoto()" class="deletebtn">KETERANGAN</button>
-<button type="button" onclick="xtogeltoto()" class="deletebtn">YA</button>
-</div></div></form></div>
+
