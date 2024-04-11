@@ -160,7 +160,7 @@ function myFunction() {
 }
 
 // Get the modal
-var modalbahaya1 = document.getElementById('pdewatogel, pppkoki, auto177, betcoinasia, antiktoto');
+var modalbahaya1 = document.getElementById('pdewatogel, pppkoki, pauto177, pbetcoinasia, pantiktoto, pmpo888');
 
 // When the user clicks anywhere outside of the modal, close it
 window.onclick = function(event) {
