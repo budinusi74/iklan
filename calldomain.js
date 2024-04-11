@@ -53,7 +53,7 @@ function xkas138() {window.open("https://138kas.space/?ref=rakuyaba");}
 function xjudi388() {window.open("https://jd388mantap.top/register?reff=rakuyaba");}
 function xkudetabet98() {window.open("https://kudetabet98alter05.com/");}
 function xmpo333bet() {window.open("https://www.mpo333bet-make.site/register?ref=GGGIGAM2LH1");}
-function x66kone() {window.open("https://66kbet22r.top/?id=82990882&currency=IDR&type=2");}
+function x66kone() {window.open("https://66kbet11m.top/?id=82990882&currency=IDR&type=2");}
 function xmpo333() {window.open("https://mpo333g.com/register/YGN4232D");}
 function xnaga007() {window.open("https://linkresminaga007.site/register?r=groty8");}
 function xjitu77() {window.open("https://winjitu77.work/");}
