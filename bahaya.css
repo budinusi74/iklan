@@ -1,5 +1,3 @@
-
-/* Float cancel and delete buttons and add an equal width */
 .cancelbtn, .deletebtn {
   float: left;
   width: 50%;
