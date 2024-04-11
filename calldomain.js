@@ -13,7 +13,7 @@ function xpmg88() {window.open("https://pmg88ok.com/");}
 function xagen288() {window.open("https://agen288adss1.shop/");}
 function xnyaitogel() {window.open("http://nyaimansion.com/register?referral_code=rakuyaba");}
 function xpintutogel() {window.open("http://pintutogelsultan.org/register?referral_code=rakuyaba");}
-function xantiktoto() {window.open("https://nosafetyy.blogspot.com/");}
+function xantiktoto() {window.open("https://antiktoto.wiki/");}
 function xklikjp() {window.open("https://klikjpgede.shop/register?referral=rakuyaba");}
 function xkijangwin() {window.open("http://spesialkijang.top/daftar?ref=rakuyaba");}
 function xaurajp() {window.open("https://aurajpmantap.vatozagency.com/?ref=rakuyaba");}
@@ -80,7 +80,7 @@ function xlembagatoto() {window.open("http://lembagatoto18.com/register?referral
 function xw77() {window.open("https://w-jamingacor.org/");}
 function xunoplay() {window.open("https://www.unoplay7s.com/register?ref=E48A47B5");}
 function xjoki55() {window.open("https://jokiaman.site/register?ref=COXGNBO1IS3");}
-function xauto177() {window.open("https://nosafetyy.blogspot.com/");}
+function xauto177() {window.open("https://auto177new.ink/");}
 function x8bettingan() {window.open("https://bettingans.monster/register?ref=QZPZPBE00O4");}
 function xmegabandar() {window.open("https://megabandar11.xyz/register?ref=3173970");}
 function xtwinbet() {window.open("https://twinbet.click/");}
@@ -137,10 +137,10 @@ function xmpo369() {window.open("https://mpo369amanah.com/register/W7N46140");}
 function xfreebet() {window.open("https://freebetdemo.blogspot.com/");}
 function xchat1() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0");}
 function xchat() {window.open("https://www.facebook.com/profile.php?id=61553499868790");}
-function xbetcoinasia() {window.open("https://nosafetyy.blogspot.com/");}
+function xbetcoinasia() {window.open("https://promobetcoin.net/");}
 function xjangkaslot() {window.open("https://noblockss.blogspot.com/");}
 function xno() {window.open("https://nosafetyy.blogspot.com/");}
-function xpphoki() {window.open("https://nosafetyy.blogspot.com/");}
+function xpphoki() {window.open("https://pphoki.com/");}
 
 function myFunction() {
     var input, filter, ul, li, a, i, txtValue;
