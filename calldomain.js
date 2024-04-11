@@ -104,7 +104,7 @@ function xmansion77() {window.open("https://www.mansions77.site/register?ref=422
 function xtatabet() {window.open("https://www.tatabet0324b.com/");}
 function xsatutogel() {window.open("https://xn--satutogel-yv6ni36m.com/");}
 function xlotto01() {window.open("https://rajaspin01.com/referral/BUNSIN");}
-function xdewatogel() {window.open("https://nosafetyy.blogspot.com/");}
+function xdewatogel() {window.open("http://linkdt.store/register?referral_code=bunsin");}
 function xsquad777() {window.open("https://lp.mainsquad777.click/register?ref=bunsin");}
 function xmpo888() {window.open("https://mpo888jepe.com/register/DB50318F");}
 function x8togel() {window.open("https://8tsantuy.com/referral/GACOR777");}
