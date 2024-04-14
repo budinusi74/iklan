@@ -1,3 +1,21 @@
+.fb, .tawk, .tutup {
+  float: left;
+  height:50px;
+  width: 33.3%;
+}
+.fb, .tawk {
+  color: white;
+}
+.fb {
+  background-color: #0866ff;
+}
+.tawk {
+  background-color: #03a84e;
+}
+.warnatextchat {
+  color: blue;
+}
+
 .ukuranketerangan {
   height: 500px;
   width: 100%;
