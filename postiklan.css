@@ -26,6 +26,7 @@
 }
 
 .cancelbtn, .deletebtn {
+  font-size:25px;
   float: left;
   height:50px;
   width: 49.9%;
