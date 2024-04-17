@@ -123,8 +123,7 @@ hr {
   height:70px;
   width: 100%;
 }   
-.groupssemua {
-  background-color:#5f7475;
+.groupssemua, .groupsaman, .groupswaspada, .groupsbahaya, .groupsupdatelink{
   color:#fff;
   font-size:17px;
   padding: 0 0px;
@@ -133,128 +132,47 @@ hr {
   height:50px;
   width: 19.0%;
 } 
-
+ .groupssemua {
+  background-color:#5f7475;
+} 
  .groupsaman {
   background-color:#2c753f;
-  color:#fff;
-  font-size:17px;
-  padding: 0 0px;
-  margin:3px;
-  float: left;
-  height:50px;
-  width: 19.0%;
 } 
 .groupswaspada {
   background-color:#a5af09;
-  color:#fff;
-  font-size:17px;
-  padding: 0 0px;
-  margin:3px;
-  float: left;
-  height:50px;
-  width: 19.0%;
 } 
 .groupsbahaya {
   background-color:#9f001dfa;
-  color:#fff;
-  font-size:17px;
-  padding: 0 0px;
-  margin:3px;.responsive {
-  background-color:#4c4f51;
-  padding: 0 6px;
-  float: left;
-  height:80px;
-  width: 33.333%;
-}
+}  
 .groupsupdatelink {
   background-color:#56629b;
-  color:#fff;
-  font-size:17px;
-  padding: 0 0px;
-  margin:3px;.responsive {
-  background-color:#4c4f51;
-  padding: 0 6px;
-  float: left;
-  height:80px;
-  width: 33.333%;
-}
-@media only screen and (max-width: 700px) {
-  .responsive {
-    width: 49.99999%;
-    margin: 0px 0;
-  }
-}
-@media only screen and (max-width: 500px) {
-  .responsive {
-    width: 100%;
-  }
-}
-.clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-* {
-  box-sizing: border-box;
-}
-  float: left;
-  height:50px;
-  width: 19.0%;
 } 
   
-.responsive {
-  background-color:#507f5c;
+.responsiveaman, .responsivewaspada, .responsivebahaya {
   padding: 0 6px;
   float: left;
   height:80px;
   width: 33.333%;
 }
 @media only screen and (max-width: 700px) {
-  .responsive {
+  .responsiveaman, .responsivewaspada, .responsivebahaya{
     width: 49.99999%;
     margin: 0px 0;
   }
 }
 @media only screen and (max-width: 500px) {
-  .responsive {
+  .responsiveaman, .responsivewaspada, .responsivebahaya {
     width: 100%;
   }
+}
+.responsiveaman {
+  background-color:#507f5c;
 }
 .responsivewaspada {
   background-color:#70751d;
-  padding: 0 6px;
-  float: left;
-  height:80px;
-  width: 33.333%;
-}
-@media only screen and (max-width: 700px) {
-  .responsivewaspada {
-    width: 49.99999%;
-    margin: 0px 0;
-  }
-}
-@media only screen and (max-width: 500px) {
-  .responsivewaspada {
-    width: 100%;
-  }
 }
 .responsivebahaya {
   background-color:#6d1818fa;
-  padding: 0 6px;
-  float: left;
-  height:80px;
-  width: 33.333%;
-}
-@media only screen and (max-width: 700px) {
-  .responsivebahaya {
-    width: 49.99999%;
-    margin: 0px 0;
-  }
-}
-@media only screen and (max-width: 500px) {
-  .responsivebahaya {
-    width: 100%;
-  }
 }
 .clearfix:after {
   content: "";
