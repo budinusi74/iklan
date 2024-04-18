@@ -46,7 +46,7 @@ function xraja168() {window.open("https://slotraja168.lol/register?ref=MKPAFAA02
 function xkiw69() {window.open("https://kiw69mantap.com/register?ref=E3MDNAC135S");}
 function xmpo08() {window.open("https://mpo08silver.com/register/WM418MNP");}
 function xwis77() {window.open("https://wis77naga.com/");}
-function xdewa234() {window.open("https://dewa234our.com/register/W42BG936");}
+function xdewa234() {window.open("https://dewa234fast.com/register/W42BG936");}
 function xrajatoto3() {window.open("https://rajatoto3carnival.com/register?ref=WnDsxSx8");}
 function xzona66() {window.open("https://solsticegrown.com/");}
 function xmpo666() {window.open("https://mpo666pm.com/register/WM41P433");}
@@ -70,7 +70,7 @@ function xmpo777() {window.open("https://pasangsurut777.xyz/register/YGNBJ4MR");
 function xcoblos4d() {window.open("https://coblos4dmantap.shop/?ref=rakuyaba");}
 function xagenslot168() {window.open("https://tehmanis.store/register/Y7G7GR7B");}
 function xamanah77() {window.open("https://amnhmantap.site/");}
-function xligahoki89() {window.open("https://ligahoki89.mom/register?ref=M3tFPwe");}
+function xligahoki89() {window.open("https://mantapcuan.autos/register?ref=M3tFPwe");}
 function xrajampo() {window.open("https://pro.rajampoidr.com/register/YGN7NR6L");}
 function xpusaka787() {window.open("https://787psk.site/register?ref=RAKUYABA");}
 function xibutogel() {window.open("https://iibutogel.club/");}
@@ -136,7 +136,7 @@ function xn77toto() {window.open("http://n77toto.cfd/register?referral_code=raku
 function xmpocasino() {window.open("https://situs-slot-mpocasino.com/register/Y85226NG");}
 function xnagatop() {window.open("https://nagatoppunya.online/register?ref=bunsin");}
 function xaquaslot() {window.open("https://aquaslotmenang.com/?ref=bunsin");}
-function xome88() {window.open("https://www.masuksitusgacor.xyz/register?ref=COXGMBL134C");}
+function xome88() {window.open("https://ome88.nl/register?ref=COXGMBL134C");}
 function xmega38() {window.open("https://mg38play.blog/register?ref=naynlqk");}
 function xmpo369() {window.open("https://mpo369amanah.com/register/W7N46140");}
 function xfreebet() {window.open("https://freebetdemo.blogspot.com/");}
