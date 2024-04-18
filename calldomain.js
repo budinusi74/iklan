@@ -22,7 +22,7 @@ function xkijangwin() {window.open("https://xn--12cma1in5at0e3erd.xn--mk1bu44c/d
 function xaurajp() {window.open("https://aurajpmantap.vatozagency.com/?ref=rakuyaba");}
 function xspesial303() {window.open("https://lupabapak.store/register?ref=rakuyaba");}
 function xxuxu4d() {window.open("https://xuxucair.com/?ref=rakuyaba");}
-function xrahayu88() {window.open("https://dietrichindustries.com/");}
+function xrahayu88() {window.open("https://rahayu88vip.click/");}
 function xboss177() {window.open("https://bossbijak.com/web/register?ref=rakuyaba");}
 function xneko9() {window.open("https://batuneko.com/register?ref=rakuyaba");}
 function xshiokambing5() {window.open("https://okmenang.com/register?ref=rakuyaba");}
