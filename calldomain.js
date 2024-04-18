@@ -128,7 +128,7 @@ function xpreman69() {window.open("http://xn--72c9czag0j1ae.xn--mk1bu44c/daftar?
 function xtokekwin() {window.open("http://xn--12ca2dsco0hra0eh2g.xn--mk1bu44c/daftar?ref=rakuyaba");}
 function xjnt77() {window.open("https://jnt77megawheel.com/daftar?ref_id=5f6e2101");}
 function xdewakoin() {window.open("https://dewakoin21.com/register?ref=PABAAAP0MH8");}
-function xdiva168() {window.open("https://www.diva168sg9.com/register?ref=BR1q0YoS");}
+function xdiva168() {window.open("https://diva168sg10.com/register?ref=BR1q0YoS");}
 function xsgpslot() {window.open("https://sgpsata.com/register?ref=4186659");}
 function xmusangwin() {window.open("https://homemusang.click/register?ref=2M3TNAFSH7A");}
 function xroyal123() {window.open("https://www.royal123se.com/register?ref=F88M1AN0ZJ2");}
