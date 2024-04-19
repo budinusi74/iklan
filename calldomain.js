@@ -90,7 +90,7 @@ function x8bettingan() {window.open("https://bettingans.monster/register?ref=QZP
 function xmegabandar() {window.open("https://megabandar11.xyz/register?ref=3173970");}
 function xtwinbet() {window.open("https://twinbeta.com/");}
 function xdewasloto() {window.open("https://pastidewasloto.shop/");}
-function xperigacor() {window.open("https://8.222.163.26:1414/?ref=bunsin");}
+function xwanatoto() {window.open("https://3.0.57.84:2828/");}
 function xkingtoto() {window.open("https://slotkingtoto.sbs/");} 
 function xajr88() {window.open("https://ajr88kepo.site/");} 
 function xhoki178() {window.open("https://hk178.club/");}
