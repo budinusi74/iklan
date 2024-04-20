@@ -27,6 +27,7 @@
 
 .cancelbtn1, .deletebtn1 {
   border-radius:25px;
+  color:black;
   font-size:25px;
   float: left;
   height:50px;
@@ -36,7 +37,6 @@
 /* Add a color to the cancel button */
 .cancelbtn1 {
   background-color: #00ff6f;
-  color: black;
 }
 
 /* Add a color to the delete button */
