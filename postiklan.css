@@ -124,6 +124,7 @@ hr {
   width: 100%;
 }   
 .groupssemua, .groupsaman, .groupswaspada, .groupsbahaya, .groupsupdatelink{
+  border-radius:25px;
   color:#fff;
   font-size:17px;
   padding: 0 0px;
