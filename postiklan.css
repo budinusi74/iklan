@@ -149,7 +149,8 @@ hr {
 } 
   
 .responsiveaman, .responsivewaspada, .responsivebahaya {
-  padding: 0 6px;
+  border-radius:20px;
+  padding: 0 0px;
   float: left;
   height:80px;
   width: 33.333%;
