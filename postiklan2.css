@@ -1,16 +1,28 @@
-.logonormal, .logokecil {
+.logonormal, .logokecil, .logomedium, .logomedium {
   position: inherit;
-  margin:2% 0% 0px -3%;
+  margin:3% 0% 0px -4%;
 }
   
 .logonormal {
-  height:80%;
-  width:90%;
+  height:65%;
+  width:90.5%;
 } 
   
 .logokecil {
-  height:80%;
+  margin:1% 0% 0px -4%;
+  height:90%;
   width:50%;
+} 
+  
+.logomedium {
+  height:80%;
+  width:70%;
+} 
+  
+.logopanjang {
+  margin:4% 0% 0px -4%;
+  height:45%;
+  width:95%;
 } 
   
 .namasitus {
@@ -243,4 +255,4 @@ border: 1px solid #0000;
 padding:0px 0% 0px 0%;
 overflow: hidden;
 text-overflow: ellipsis;
-} 
+}
