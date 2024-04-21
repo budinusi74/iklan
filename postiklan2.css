@@ -1,0 +1,246 @@
+.logonormal, .logokecil {
+  position: inherit;
+  margin:2% 0% 0px -3%;
+}
+  
+.logonormal {
+  height:80%;
+  width:85%;
+} 
+  
+.logokecil {
+  height:80%;
+  width:50%;
+} 
+  
+.namasitus {
+  color: #516fe3; 
+  font-size: 0px;
+}  
+  
+.fb, .tawk, .tutup {
+  float: left;
+  height:50px;
+  width: 33.3%;
+}
+.fb, .tawk {
+  color: white;
+}
+.fb {
+  background-color: #0866ff;
+}
+.tawk {
+  background-color: #03a84e;
+}
+.warnatextchat {
+  color: blue;
+}
+
+.ukuranketerangan {
+  height: 400px;
+  width: 100%;
+}
+
+.warnabahaya {
+  color: red;
+}
+
+.cancelbtn1, .deletebtn1 {
+  border-radius:25px;
+  color:black;
+  font-size:25px;
+  float: left;
+  height:50px;
+  width: 49.9%;
+}
+
+/* Add a color to the cancel button */
+.cancelbtn1 {
+  background-color: #00ff6f;
+}
+
+/* Add a color to the delete button */
+.deletebtn1 {
+  background-color: #f44336;
+}
+
+.ttpupdatelink {
+  font-size:25px;
+  float: left;
+  height:50px;
+  width: 100%;
+  background-color: #ccc;
+  color: black;
+}
+
+/* Add padding and center-align text to the container */
+.container {
+  padding: 16px;
+  font-size:20px;
+  text-align: center;
+}
+
+/* The Modal (background) */
+.modalbahaya1 {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: #0000;
+  padding-top: 50px;
+}
+
+/* Modal Content/Box */
+.modalbahaya1-content {
+  background-color: #a1afae;
+  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* Style the horizontal ruler */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+ 
+/* The Modal Close Button (x) */
+.close {
+  position: absolute;
+  right: 35px;
+  top: 15px;
+  font-size: 40px;
+  font-weight: bold;
+  color: #f1f1f1;
+}
+
+.close:hover,
+.close:focus {
+  color: #f44336;
+  cursor: pointer;
+}
+
+/* Clear floats */
+.clearfixbahaya::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Change styles for cancel button and delete button on extra small screens */
+@media screen and (max-width: 300px) {
+  .cancelbtn, .deletebtn {
+     width: 100%;
+  }
+}  
+  
+  
+.groupsm {
+  padding: 0 0px;
+  height:70px;
+  width: 100%;
+}   
+.groupssemua, .groupsaman, .groupswaspada, .groupsbahaya, .groupsupdatelink{
+  border-radius:25px;
+  color:#fff;
+  font-size:17px;
+  padding: 0 0px;
+  margin:3px;
+  float: left;
+  height:50px;
+  width: 19.0%;
+} 
+ .groupssemua {
+  background-color:#5f7475;
+} 
+ .groupsaman {
+  background-color:#2c753f;
+} 
+.groupswaspada {
+  background-color:#a5af09;
+} 
+.groupsbahaya {
+  background-color:#9f001dfa;
+}  
+.groupsupdatelink {
+  background-color:#56629b;
+} 
+  
+.responsiveaman, .responsivewaspada, .responsivebahaya {
+  border-radius:20px;
+  padding: 0 0px;
+  float: left;
+  height:80px;
+  width: 19.95%;
+}
+@media only screen and (max-width: 700px) {
+  .responsiveaman, .responsivewaspada, .responsivebahaya{
+    width: 49.99999%;
+    margin: 0px 0;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .responsiveaman, .responsivewaspada, .responsivebahaya {
+    width: 100%;
+  }
+}
+.responsiveaman {
+  background-color:#507f5c;
+}
+.responsivewaspada {
+  background-color:#70751d;
+}
+.responsivebahaya {
+  background-color:#6d1818fa;
+}
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+* {
+  box-sizing: border-box;
+}
+
+#myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 12px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 45px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#myUL {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.shadow-chat {text-shadow: 0px 0px 2px #222,0px 0px 2px #222;font-size: 0.5rem;
+  animation: flickerchat 1.5s infinite alternate; }/* Flickering animation */
+@keyframes flickerchat {0%, 0%, 0%, 0%, 0%, 0%, 100% {text-shadow:0 0 10px #1333d7,0 0 10px #1333d7,0 0 10px #1333d7,0 0 10px #1333d7,0 0 10px #1333d7, 0 0 10px #1333d7,0 0 10px #1333d7,0 0 10px #1333d7;} 20%, 24%, 55% {        text-shadow: none;}    }
+
+.shadow-fbdemo {text-shadow: 0px 0px 0.1px #222,0px 0px 0.1px #222;font-size: 0.1rem;
+  animation: flickerfbdemo 2.5s infinite alternate; }/* Flickering animation */
+@keyframes flickerfbdemo {0%, 0%, 0%, 0%, 0%, 0%, 100% {text-shadow:0 0 10px #087525,0 0 10px #087525,0 0 10px #087525,0 0 10px #087525,0 0 10px #087525,0 0 10px #087525,0 0 10px #087525, 0 0 10px #087525;} 20%, 24%, 55% {  text-shadow: none;}}
+
+.textmenu {
+position:relative;
+top:-7%;
+color:#fff;
+text-align: center;
+font-size: 18px;
+margin-bottom: 3.01%;
+white-space: nowrap;
+border: 1px solid #0000;
+padding:0px 0% 0px 0%;
+overflow: hidden;
+text-overflow: ellipsis;
+} 
