@@ -1,4 +1,5 @@
 function xtogeltoto() {window.open("https://noblockss.blogspot.com/");}
+function xcor77() {window.open("https://cor77.co/");}
 function xvit88() {window.open("https://vit88f.com/");}
 function xadipatislot() {window.open("https://adipatislot-vip.com/");}
 function xlotuspelangi() {window.open("https://pelangihujan.online/daftar?ref=rakuyaba");}
