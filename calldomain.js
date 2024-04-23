@@ -142,7 +142,7 @@ function xnagatop() {window.open("https://nagatoppunya.online/register?ref=bunsi
 function xaquaslot() {window.open("https://aquaslotrolling.com/?ref=bunsin");}
 function xome88() {window.open("https://eurobasketwomen2009.com/register?ref=COXGMBL134C");}
 function xmega38() {window.open("https://mg38jepe.online/register?ref=naynlqk");}
-function xmpo369() {window.open("https://mpo369amanah.com/register/W7N46140");}
+function xmpo369() {window.open("https://mpo369a9.com/register/W7N46140");}
 function xfreebet() {window.open("https://freebetdemo.blogspot.com/");}
 function xchattawk() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0");}
 function xchatfb() {window.open("https://www.facebook.com/profile.php?id=61553499868790");}
