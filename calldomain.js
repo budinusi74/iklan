@@ -82,7 +82,7 @@ function xsupertogel() {window.open("https://ssuuppeertogel.org/");}
 function xamavi88() {window.open("https://amavi88b.com/register/W65R5800");}
 function xbaron4d() {window.open("https://baron5.xyz/web/register?ref=rakuyaba");}
 function xliga365new() {window.open("https://newliga365e.online/?action=register&rc=N8SY7QO738&ci=11");}
-function xslotoppo88() {window.open("https://slotoppo88a.quest/?ref=rakuyaba");}
+function xslotoppo88() {window.open("https://obattidurlelap.com/?ref=rakuyaba");}
 function xjadijp() {window.open("https://jadijp2.com/");}
 function xwisdom77() {window.open("https://wisdom77go.beauty/?ref=rakuyaba");}
 function xlembagatoto() {window.open("http://lembagatoto18.com/register?referral_code=rakuyaba");}
