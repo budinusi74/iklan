@@ -2,7 +2,7 @@ function xtogeltoto() {window.open("https://noblockss.blogspot.com/");}
 function xcor77() {window.open("https://cor77.co/register?ref=8GGAEAC1CUR");}
 function xvit88() {window.open("https://vit88f.com/");}
 function xadipatislot() {window.open("https://adipatislot-vip.com/");}
-function xlotuspelangi() {window.open("https://pelangihujan.online/daftar?ref=rakuyaba");}
+function xlotuspelangi() {window.open("https://pelangihujan.shop/daftar?ref=rakuyaba");}
 function xbk8() {window.open("https://www.bk8idxhokii.com/");}
 function xflash303super() {window.open("https://richmondehs.com/");}
 function xfijislot() {window.open("https://fijislot2.co/register?ref=VABAAA10IAH");}
