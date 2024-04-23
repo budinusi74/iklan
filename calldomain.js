@@ -40,7 +40,7 @@ function xjet88bet() {window.open("https://jet88betslot7.pro/?ref=rakuyaba");}
 function xbagus88() {window.open("https://170.64.185.90:88/register?ref=Mega5z7");}
 function xgemoy02() {window.open("https://petirx500.online/register?ref=ONEAAAH00P8");}
 function xareabola() {window.open("http://146.190.101.102/");}
-function xcvtogel() {window.open("http://cvtogelup.org/register?referral_code=rakuyaba");}
+function xcvtogel() {window.open("http://cvtogeloke.net/register?referral_code=rakuyaba");}
 function xole777() {window.open("https://mobi.gol149.com/");}
 function xaw8() {window.open("https://15.235.136.142:1433/id-id/");}
 function xdafabet() {window.open("https://www.pasangdisini.com/");}
