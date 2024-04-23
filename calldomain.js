@@ -75,7 +75,7 @@ function xcoblos4d() {window.open("https://coblos4dmantap.shop/?ref=rakuyaba");}
 function xagenslot168() {window.open("https://tehmanis.store/register/Y7G7GR7B");}
 function xamanah77() {window.open("https://amnhmantap.site/");}
 function xligahoki89() {window.open("https://mantapcuan.autos/register?ref=M3tFPwe");}
-function xrajampo() {window.open("https://pro.rajampoidr.com/register/YGN7NR6L");}
+function xrajampo() {window.open("https://bang.rajampoidr.com/register/YGN7NR6L");}
 function xpusaka787() {window.open("https://787psk.site/register?ref=RAKUYABA");}
 function xibutogel() {window.open("https://iibutogel.club/");}
 function xsupertogel() {window.open("https://ssuuppeertogel.org/");}
