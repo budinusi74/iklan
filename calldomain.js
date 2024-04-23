@@ -20,7 +20,7 @@ function xindogenting() {window.open("https://www.indogenting0324e.com/");}
 function xkenzo188() {window.open("https://diamondkenzo.com/register?ref=A3MMMAF4PO7");}
 function xpmg88() {window.open("https://pmg88ok.com/register?ref=u2y78Bp");}
 function xagen288() {window.open("https://agen288yes.com/");}
-function xnyaitogel() {window.open("http://nyaimansion.com/register?referral_code=rakuyaba");}
+function xnyaitogel() {window.open("http://nyaislot.pro/register?referral_code=rakuyaba");}
 function xpintutogel() {window.open("http://pintutogelsultan.org/register?referral_code=rakuyaba");}
 function xantiktoto() {window.open("https://antiktogel.org/link.php?member=rakuyaba");}
 function xklikjp() {window.open("https://klikjplagi.live/register?referral=rakuyaba");}
