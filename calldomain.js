@@ -51,7 +51,7 @@ function xraja168() {window.open("https://slotraja168.lol/register?ref=MKPAFAA02
 function xkiw69() {window.open("https://kiw69mantap.com/register?ref=E3MDNAC135S");}
 function xmpo08() {window.open("https://mpo08silver.com/register/WM418MNP");}
 function xwis77() {window.open("https://wis77naga.com/");}
-function xdewa234() {window.open("https://dewa234fast.com/register/W42BG936");}
+function xdewa234() {window.open("https://dewa234win.net/register/W42BG936");}
 function xrajatoto3() {window.open("https://rajatoto3wins.com/register?ref=WnDsxSx8");}
 function xzona66() {window.open("https://zona66o.pro/");}
 function xmpo666() {window.open("https://mpo666pm.com/register/WM41P433");}
