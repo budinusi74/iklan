@@ -22,7 +22,7 @@ function xpmg88() {window.open("https://pmg88ok.com/register?ref=u2y78Bp");}
 function xagen288() {window.open("https://agen288yes.com/");}
 function xnyaitogel() {window.open("http://nyaislot.pro/register?referral_code=rakuyaba");}
 function xpintutogel() {window.open("http://pintutogelsultan.org/register?referral_code=rakuyaba");}
-function xantiktoto() {window.open("https://antiktogel.org/link.php?member=rakuyaba");}
+function xantiktoto() {window.open("https://vipantik.site/link.php?member=rakuyaba");}
 function xklikjp() {window.open("https://klikjplagi.live/register?referral=rakuyaba");}
 function xkijangwin() {window.open("https://xn--12cma1in5at0e3erd.xn--mk1bu44c/daftar?ref=rakuyaba");}
 function xaurajp() {window.open("https://aurajpmantap.vatozagency.com/?ref=rakuyaba");}
