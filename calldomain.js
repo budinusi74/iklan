@@ -30,7 +30,7 @@ function xaurajp() {window.open("https://aurajpmantap.vatozagency.com/?ref=rakuy
 function xspesial303() {window.open("https://lupabapak.store/register?ref=rakuyaba");}
 function xxuxu4d() {window.open("https://xuxucair.com/?ref=rakuyaba");}
 function xrahayu88() {window.open("https://rahayu88vip.click/");}
-function xboss177() {window.open("https://bossbijak.com/web/register?ref=rakuyaba");}
+function xboss177() {window.open("https://masboss177.com/register?ref=rakuyaba");}
 function xneko9() {window.open("https://nekon9ne.com/register?ref=rakuyaba");}
 function xshiokambing5() {window.open("https://okmenang.com/register?ref=rakuyaba");}
 function xplaza4d() {window.open("https://lubangkaya66.com/register/mobile?ref=rakuyaba");}
