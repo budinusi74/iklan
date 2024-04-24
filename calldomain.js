@@ -1,5 +1,5 @@
 function xtogeltoto() {window.open("https://noblockss.blogspot.com/");}
-function xapi77() {window.open("https://nalipmediasummit.com/account/register/158909985");}
+function xapi77() {window.open("https://api77j.site/account/register/158909985");}
 function xcor77() {window.open("https://cor77.co/register?ref=8GGAEAC1CUR");}
 function xvit88() {window.open("https://vit88f.com/");}
 function xadipatislot() {window.open("https://adipatislot-vip.com/");}
