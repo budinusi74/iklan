@@ -46,7 +46,7 @@ function xole777() {window.open("https://mobi.gol149.com/");}
 function xaw8() {window.open("https://15.235.136.142:1433/id-id/");}
 function xdafabet() {window.open("https://www.pasangdisini.com/");}
 function xm88() {window.open("https://www.ms8orl.com/");}
-function xalexabet88() {window.open("https://alexabet88ao.com/register?ref=4284846");}
+function xalexabet88() {window.open("https://alexabet88ap.com/register?ref=4284846");}
 function xraja168() {window.open("https://slotraja168.lol/register?ref=MKPAFAA02AN");}
 function xkiw69() {window.open("https://kiw69mantap.com/register?ref=E3MDNAC135S");}
 function xmpo08() {window.open("https://mpo08silver.com/register/WM418MNP");}
