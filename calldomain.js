@@ -150,4 +150,4 @@ function xchatfb() {window.open("https://www.facebook.com/profile.php?id=6155349
 function xbetcoinasia() {window.open("https://betcoinasiaslot.me/?ref=bunsin");}
 function xjangkaslot() {window.open("https://noblockss.blogspot.com/");}
 function xno() {window.open("https://nosafetyy.blogspot.com/");}
-function xpphoki() {window.open("https://pprtp.com/?ref=rakuyaba");}
+function xpphoki() {window.open("https://pphok99.com/?ref=rakuyaba");}
