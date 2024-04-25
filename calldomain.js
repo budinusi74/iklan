@@ -81,7 +81,7 @@ function xpusaka787() {window.open("https://787psk.site/register?ref=RAKUYABA");
 function xibutogel() {window.open("https://iibutogel.club/");}
 function xsupertogel() {window.open("https://ssuuppeertogel.org/");}
 function xamavi88() {window.open("https://amavi88b.com/register/W65R5800");}
-function xbaron4d() {window.open("https://baron5.xyz/web/register?ref=rakuyaba");}
+function xbaron4d() {window.open("https://baron5.xyz/mobile/register?ref=rakuyaba");}
 function xliga365new() {window.open("https://newliga365e.xyz/?action=register&rc=N8SY7QO738&ci=11");}
 function xslotoppo88() {window.open("https://obattidurlelap.com/?ref=rakuyaba");}
 function xjadijp() {window.open("https://jadijp2.com/");}
