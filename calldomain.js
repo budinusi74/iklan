@@ -108,7 +108,7 @@ function xpesiar88() {window.open("https://pesiar88yes.ink/");}
 function xpokerbo() {window.open("https://pokerbov.site/");}
 function xsinggah4d() {window.open("https://singgah4d-2.com/?ref=rakuyaba");}
 function xgacorbos88() {window.open("https://gacorxbos88.site/register?ref=GS2ABAD2PD1");}
-function xjawara88() {window.open("https://meratus.online/register?ref=ZABABAW0PJO");}
+function xjawara88() {window.open("https://jawaraku.xyz/register?ref=ZABABAW0PJO");}
 function xyakinslot88() {window.open("https://yakinslot88e.com/register/WQ841109");}
 function xpoa88() {window.open("https://upheavalarts.com/");}
 function xhoki138() {window.open("https://hoki138max.com/");}
