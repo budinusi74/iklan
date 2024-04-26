@@ -106,7 +106,7 @@ function xkudapoker() {window.open("https://kkudapokerr.org/");}
 function xvipbet88() {window.open("https://vipbet88ok.xyz/");}
 function xpesiar88() {window.open("https://pesiar88yes.ink/");}
 function xpokerbo() {window.open("https://pokerbov.site/");}
-function xsinggah4d() {window.open("https://singgah4dpaten.com/?ref=rakuyaba");}
+function xsinggah4d() {window.open("https://singgah4d-2.com/?ref=rakuyaba");}
 function xgacorbos88() {window.open("https://gacorxbos88.site/register?ref=GS2ABAD2PD1");}
 function xjawara88() {window.open("https://meratus.online/register?ref=ZABABAW0PJO");}
 function xyakinslot88() {window.open("https://yakinslot88e.com/register/WQ841109");}
