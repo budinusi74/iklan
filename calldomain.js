@@ -149,7 +149,7 @@ function xmpo369() {window.open("https://mpo369b2.com/register/W7N46140");}
 function xfreebet() {window.open("https://freebetdemo.blogspot.com/");}
 function xchattawk() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0");}
 function xchatfb() {window.open("https://www.facebook.com/profile.php?id=61553499868790");}
-function xbetcoinasia() {window.open("https://betcoinasiaslot.me/?ref=bunsin");}
+function xbetcoinasia() {window.open("https://b-coin.club/?ref=bunsin");}
 function xjangkaslot() {window.open("https://noblockss.blogspot.com/");}
 function xno() {window.open("https://nosafetyy.blogspot.com/");}
 function xpphoki() {window.open("https://pphok99.com/?ref=rakuyaba");}
