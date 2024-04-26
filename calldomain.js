@@ -125,7 +125,7 @@ function xshiokambing() {window.open("https://adarezeki.com/register?ref=rakuyab
 function xhoki177() {window.open("https://hoki177apk.com/register?ref=rakuyaba");}
 function xgacor88() {window.open("https://jackpotgacor88.live/register?ref=vtFlLkv");}
 function xdemen303() {window.open("https://demen303fun.com/register?ref=buns1n");}
-function xgacorslot() {window.open("https://gacorslotjp.site/register/WQ8K3KMR");}
+function xgacorslot() {window.open("https://gacorslods.com/register/WQ8K3KMR");}
 function xbom29toto() {window.open("https://b29items.com/link.php?member=rakuyaba");}
 function xairbet88() {window.open("https://linkairbet88online.shop/register?ref=rakunn");}
 function xgaulbet77() {window.open("https://www.lawasgaulbet177.site/register/YPLRNNDQ");}
