@@ -1,4 +1,5 @@
 function xtogeltoto() {window.open("https://noblockss.blogspot.com/");}
+function xindoagen188() {window.open("https://indoagen188.bond/register/W518KB66");}
 function xnexus77() {window.open("https://noblockss.blogspot.com/");}
 function xnusabet() {window.open("https://nusalink.sbs/");}
 function xtkp303() {window.open("https://tkp333a.com/");}
