@@ -44,7 +44,7 @@ function xbagus88() {window.open("https://170.64.185.90:88/register?ref=Mega5z7"
 function xgemoy02() {window.open("https://petirx500.online/register?ref=ONEAAAH00P8");}
 function xareabola() {window.open("http://146.190.101.102/");}
 function xcvtogel() {window.open("http://cvtogeloke.net/register?referral_code=rakuyaba");}
-function xole777() {window.open("https://mobi.gol149.com/");}
+function xole777() {window.open("https://mobi.gol149.com/#/register?referral=nn97j3Yw");}
 function xaw8() {window.open("https://15.235.136.142:1433/id-id/register?refid=vpwavmyw");}
 function xdafabet() {window.open("https://www.pasangdisini.com/");}
 function xm88() {window.open("https://www.ms8orl.com/");}
