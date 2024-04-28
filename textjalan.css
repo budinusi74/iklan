@@ -1,0 +1,132 @@
+.text {
+    color: #555;
+}
+
+.tutoroverlay {
+  text-align-last:left;
+  height: 0%;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.9);
+  overflow-y: auto;
+  transition: 0.5s;
+}
+
+.tutoroverlay-content {
+  background-color:#979797;
+  position: relative;
+  top: 5%;
+  width: 95%;
+  text-align: initial;
+  margin: 20px 0px 0px 2%;
+  padding:0px 0px 0px 10px;
+}
+
+.tutoroverlay a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 36px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.tutoroverlay p {
+  color: #00ffea;
+    font-family: Helvetica, Serif;
+    font-size: 18px;
+    margin: 64px 0 0em;
+}
+
+.tutoroverlay a:hover, .overlay a:focus {
+  color: #f1f1f1;
+}
+
+.tutoroverlay .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 45px;
+  font-size: 60px;
+}
+
+@media screen and (max-height: 450px) {
+  .tutoroverlay {overflow-y: auto;}
+  .tutoroverlay a {font-size: 20px}
+  .tutoroverlay .closebtn {
+  font-size: 40px;
+  top: 15px;
+  right: 35px;
+  }
+}
+
+
+.tposisi{
+height:35px;              
+text-align:start;
+background-color:#0000;
+padding: 0px 0px 0px 5%;
+font-weight: 100;
+margin-top: 0.2rem;
+margin-bottom: 0rem;
+font-size: 2rem;
+line-height: 100%;
+}
+
+.shadow-tut {
+  text-align:center;
+  text-shadow: 0px 0px 2px #222,
+               0px 0px 2px #222;
+font-size: 0.5rem;
+  animation: flickertut 1.5s infinite alternate; 
+}
+/* Flickering animation */
+@keyframes flickertut {
+    
+  0%, 0%, 0%, 0%, 0%, 0%, 100% {
+
+      text-shadow:
+      0 0 20px aqua,
+      0 0 20px aqua,
+      0 0 20px aqua,
+      0 0 20px aqua,
+      0 0 20px aqua,
+      0 0 20px aqua,
+      0 0 20px aqua,
+      0 0 20px aqua;
+  
+  }
+  20%, 24%, 55% {        
+      text-shadow: none;
+  }    
+}
+.shadow-win {
+  text-align:center;
+  text-shadow: 0px 0px 2px #222,
+               0px 0px 2px #222;
+font-size: 0.5rem;
+  animation: flickerwin 0.1s infinite alternate; 
+}
+/* Flickering animation */
+@keyframes flickerwin {
+    
+  0%, 0%, 0%, 0%, 0%, 0%, 100% {
+
+      text-shadow:
+      0 0 2px red,
+      0 0 2px red,
+      0 0 2px red,
+      0 0 2px red,
+      0 0 2px red,
+      0 0 2px red,
+      0 0 2px red,
+      0 0 2px red;
+  
+  }
+  20%, 24%, 55% {        
+      text-shadow: none;
+  }    
+}
