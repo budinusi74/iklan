@@ -45,7 +45,7 @@ function xneo177() {window.open("https://abangkuneo.com/register?ref=rakuyaba");
 function xwishslot() {window.open("https://wishslot.cfd/register?ref=1BnwRn2");}
 function xjet88bet() {window.open("https://jetbettop.shop/?ref=rakuyaba");}
 function xbagus88() {window.open("https://170.64.185.90:88/register?ref=Mega5z7");}
-function xgemoy02() {window.open("https://gemoy02okegas.com/register?ref=ONEAAAH00P8");}
+function xgemoy02() {window.open("https://petirx500.online/register?ref=ONEAAAH00P8");}
 function xareabola() {window.open("http://146.190.101.102/");}
 function xcvtogel() {window.open("http://cvtogeloke.net/register?referral_code=rakuyaba");}
 function xole777() {window.open("https://mobi.gol8517.com/#/register?referral=nn97j3Yw");}
@@ -95,7 +95,7 @@ function xwisdom77() {window.open("https://wisdom77go.makeup/?ref=rakuyaba");}
 function xlembagatoto() {window.open("http://lembagatoto19.com/register?referral_code=rakuyaba");}
 function xw77() {window.open("https://w-jamingacor.org/");}
 function xunoplay() {window.open("https://www.unoplay1gacor.com/register?ref=E48A47B5");}
-function xjoki55() {window.open("https://joki55-login.pro/register?ref=COXGNBO1IS3");}
+function xjoki55() {window.open("https://www.joki55-login.pro/register?ref=COXGNBO1IS3");}
 function xauto177() {window.open("https://auto177live.ink/?ref=rakuyaba");}
 function x8bettingan() {window.open("https://bettingans.digital/register?ref=QZPZPBE00O4");}
 function xmegabandar() {window.open("https://megabandar11.xyz/register?ref=3173970");}
@@ -145,7 +145,7 @@ function xmusangwin() {window.open("https://homemusang.click/register?ref=2M3TNA
 function xroyal123() {window.open("https://www.royal123kz.com/register?ref=F88M1AN0ZJ2");}
 function xn77toto() {window.open("http://n77toto-id.com/register?referral_code=rakuyaba");}
 function xmpocasino() {window.open("https://situs-slot-mpocasino.com/register/Y85226NG");}
-function xnagatop() {window.open("https://nagatopfun01.xyz/register?ref=bunsin");}
+function xnagatop() {window.open("https://nagatoppunya.online//register?ref=bunsin");}
 function xaquaslot() {window.open("https://aquaslotdadu.com/?ref=bunsin");}
 function xome88() {window.open("https://www.masukome88.xyz/register?ref=COXGMBL134C");}
 function xmega38() {window.open("https://mg38ku.pro/register?ref=naynlqk");}
