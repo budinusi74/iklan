@@ -145,7 +145,7 @@ function xmusangwin() {window.open("https://homemusang.click/register?ref=2M3TNA
 function xroyal123() {window.open("https://www.royal123kz.com/register?ref=F88M1AN0ZJ2");}
 function xn77toto() {window.open("http://n77toto-id.com/register?referral_code=rakuyaba");}
 function xmpocasino() {window.open("https://situs-slot-mpocasino.com/register/Y85226NG");}
-function xnagatop() {window.open("https://nagatoppunya.online/register?ref=bunsin");}
+function xnagatop() {window.open("https://nagatopfun01.xyz/register?ref=bunsin");}
 function xaquaslot() {window.open("https://aquaslotdadu.com/?ref=bunsin");}
 function xome88() {window.open("https://www.masukome88.xyz/register?ref=COXGMBL134C");}
 function xmega38() {window.open("https://mg38ku.pro/register?ref=naynlqk");}
