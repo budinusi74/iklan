@@ -101,7 +101,7 @@ function xauto177() {window.open("https://auto177live.ink/?ref=rakuyaba");}
 function x8bettingan() {window.open("https://bettingans.digital/register?ref=QZPZPBE00O4");}
 function xmegabandar() {window.open("https://megabandar11.xyz/register?ref=3173970");}
 function xtwinbet() {window.open("https://twinbeta.com/");}
-function xdewasloto() {window.open("https://pastidewasloto.shop/");}
+function xdewasloto() {window.open("https://pastidewasloto.click/");}
 function xwanatoto() {window.open("https://3.0.57.84:2828/");}
 function xkingtoto() {window.open("https://kingtotoslot.top/");} 
 function xajr88() {window.open("https://ajr88kepo.site/");} 
