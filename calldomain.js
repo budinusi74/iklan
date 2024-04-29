@@ -107,7 +107,7 @@ function xkingtoto() {window.open("https://kingtotoslot.top/");}
 function xajr88() {window.open("https://ajr88jos.site/");} 
 function xhoki178() {window.open("https://hk178.club/");}
 function xdewagacor77() {window.open("https://dewagacor77.work/");}
-function xkudapoker() {window.open("https://kkudapokerr.org/");}
+function xkudapoker() {window.open("https://kkuudapokerr.co/");}
 function xvipbet88() {window.open("https://vipbet88ok.xyz/");}
 function xpesiar88() {window.open("https://pesiar88yes.ink/");}
 function xpokerbo() {window.open("https://pokerbov.site/");}
