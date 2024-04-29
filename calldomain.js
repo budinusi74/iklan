@@ -110,7 +110,7 @@ function xdewagacor77() {window.open("https://dewagacor77.work/");}
 function xkudapoker() {window.open("https://kkuudapokerr.co/");}
 function xvipbet88() {window.open("https://vip88go.live/");}
 function xpesiar88() {window.open("https://pesiar88omg.ink/");}
-function xpokerbo() {window.open("https://pokerbov.site/");}
+function xpokerbo() {window.open("https://pokerbov.lol/");}
 function xsinggah4d() {window.open("https://singgah4d-2.com/?ref=rakuyaba");}
 function xgacorbos88() {window.open("https://gacorxbos88.site/register?ref=GS2ABAD2PD1");}
 function xjawara88() {window.open("https://88jawara.lol/register?ref=ZABABAW0PJO");}
