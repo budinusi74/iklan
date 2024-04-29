@@ -16,7 +16,7 @@ function xflash303super() {window.open("https://richmondehs.com/");}
 function xfijislot() {window.open("https://fijislot2.vip/register?ref=VABAAA10IAH");}
 function xmaxwin88() {window.open("http://maxwin88los.space/ref/?rid=rf10k5096ef");}
 function xskslot() {window.open("https://ataskitabang99.com/register?ref=rakuyaba");}
-function xjackpot168() {window.open("https://jackpot168joker.com/");}
+function xjackpot168() {window.open("https://jackpot168qq.com/");}
 function xfungame777() {window.open("https://fungame777liga.org/");}
 function xluxury333() {window.open("https://luxury333bulat.com/");}
 function xibosport() {window.open("https://v2ibo.life/");}
