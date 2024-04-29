@@ -119,7 +119,7 @@ function xpoa88() {window.open("https://faithefc.org/?ref=rakuyaba");}
 function xhoki138() {window.open("https://hoki138max.com/");}
 function xmansion77() {window.open("https://www.mansions777.net/register?ref=4225754");}
 function xtatabet() {window.open("https://www.tatabet0324b.com/");}
-function xsatutogel() {window.open("https://xn--satutogel-yv6ni36m.com/");}
+function xsatutogel() {window.open("https://www.xn--satutogel-yv6ni36m.com/");}
 function xlotto01() {window.open("https://rumahlotto.com/referral/BUNSIN");}
 function xdewatogel() {window.open("http://linkdt.store/register?referral_code=bunsin");}
 function xsquad777() {window.open("https://lp.mainsquad777.click/register?ref=bunsin");}
