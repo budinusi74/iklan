@@ -78,7 +78,7 @@ function xeraplay88() {window.open("https://pgera88play.xyz/");}
 function xmpo222() {window.open("https://mpo222jawara.com/register/WNR6893G");}
 function xmpo111() {window.open("https://mpo111am.com/");}
 function xmpo999() {window.open("https://mpo999.com/register/Y654G7R0");}
-function xmpo777() {window.open("https://pasangsurut777.xyz/register/YGNBJ4MR");}
+function xmpo777() {window.open("https://mpo777timur.com/register/YGNBJ4MR");}
 function xcoblos4d() {window.open("https://coblos4dmanja.pro/?ref=rakuyaba");}
 function xagenslot168() {window.open("https://agenslott168.site/register/Y7G7GR7B");}
 function xamanah77() {window.open("https://amnhmantap.site/");}
