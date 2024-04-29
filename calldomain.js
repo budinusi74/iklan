@@ -20,7 +20,7 @@ function xjackpot168() {window.open("https://jackpot168joker.com/");}
 function xfungame777() {window.open("https://fungame777liga.org/");}
 function xluxury333() {window.open("https://luxury333baik.com/");}
 function xibosport() {window.open("https://v2situsibo.today/");}
-function xslotmacau188() {window.open("https://slotmacau188link.today/");}
+function xslotmacau188() {window.open("https://sm188link.digital/");}
 function xpiontogel() {window.open("https://piongege.com/link.php?member=rakuyaba");}
 function xtektok77() {window.open("https://tektok77testi.com/");}
 function xdauntogel() {window.open("https://daunsubur.com/link.php?member=rakuyaba");}
