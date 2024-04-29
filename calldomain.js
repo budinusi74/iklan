@@ -44,7 +44,7 @@ function xplaza4d() {window.open("https://pasarsakti66.com/register/mobile?ref=r
 function xshiokambing2() {window.open("https://untungdisini.com/register?ref=rakuyaba");}
 function xneo177() {window.open("https://abangkuneo.com/register?ref=rakuyaba");}
 function xwishslot() {window.open("https://wishslot.cfd/register?ref=1BnwRn2");}
-function xjet88bet() {window.open("https://jetbettop.shop/?ref=rakuyaba");}
+function xjet88bet() {window.open("https://jetbetjepe.com/?ref=rakuyaba");}
 function xbagus88() {window.open("https://170.64.185.90:88/register?ref=Mega5z7");}
 function xgemoy02() {window.open("https://gemoy02okegas.site/register?ref=ONEAAAH00P8");}
 function xareabola() {window.open("http://146.190.101.102/");}
