@@ -6,7 +6,7 @@ function xnexus77() {window.open("https://noblockss.blogspot.com/");}
 function xnusabet() {window.open("https://nusalink.sbs/register?ref=4406747");}
 function xtkp303() {window.open("https://tkp333a.com/");}
 function x303hoki() {window.open("https://303hkbig.com/register/Y66KPQ1K");}
-function xapi77() {window.open("https://api77l.site/account/register/158909985");}
+function xapi77() {window.open("https://api77k.site/account/register/158909985");}
 function xcor77() {window.open("https://www.cor77.games/register?ref=8GGAEAC1CUR");}
 function xvit88() {window.open("https://vit88f.com/");}
 function xadipatislot() {window.open("https://adipatislot-vip.com/");}
@@ -14,14 +14,14 @@ function xlotuspelangi() {window.open("https://pelangihujan.store/daftar?ref=rak
 function xbk8() {window.open("https://www.bk8xidmenang.com/");}
 function xflash303super() {window.open("https://flash303vip.skin/?ref=rakuyaba");}
 function xfijislot() {window.open("https://fijislot2.vip/register?ref=VABAAA10IAH");}
-function xmaxwin88() {window.open("http://maxwin88los.space/ref/?rid=rf10k5096ef");}
+function xmaxwin88() {window.open("http://maxwin88los.bond/ref/?rid=rf10k5096ef");}
 function xskslot() {window.open("https://ataskitabang99.com/register?ref=rakuyaba");}
 function xjackpot168() {window.open("https://jackpot168qq.com/");}
 function xfungame777() {window.open("https://fungame777real.com/");}
 function xluxury333() {window.open("https://luxury333bulat.com/");}
 function xibosport() {window.open("https://v2ibo.life/");}
 function xslotmacau188() {window.open("https://sm188link.digital/");}
-function xpiontogel() {window.open("https://piongege.com/link.php?member=rakuyaba");}
+function xpiontogel() {window.open("https://akupion.com/link.php?member=rakuyaba");}
 function xtektok77() {window.open("https://tektok77host.com/register?ref=cvdwOsa");}
 function xdauntogel() {window.open("https://daunsubur.com/link.php?member=rakuyaba");}
 function xindogenting() {window.open("https://www.indogenting0324e.com/");}
@@ -53,7 +53,7 @@ function xole777() {window.open("https://mobi.gol8517.com/#/register?referral=nn
 function xaw8() {window.open("https://15.235.136.142:1433/id-id/register?refid=vpwavmyw");}
 function xdafabet() {window.open("https://www.pasangdisini.com/");}
 function xm88() {window.open("https://www.ms8orl.com/");}
-function xalexabet88() {window.open("https://alexabet88ap.com/register?ref=4284846");}
+function xalexabet88() {window.open("https://alexabet88aq.com/register?ref=4284846");}
 function xraja168() {window.open("https://slotraja168.lol/register?ref=MKPAFAA02AN");}
 function xkiw69() {window.open("https://kiw69mantap.com/register?ref=E3MDNAC135S");}
 function xmpo08() {window.open("https://mpo08area.com/register/WM418MNP");}
@@ -65,7 +65,7 @@ function xmpo666() {window.open("https://mpo666am.com/register/WM41P433");}
 function xmpo555() {window.open("https://mpo555-bot.com/register/WR3N6NQ9");}
 function xkadobet() {window.open("https://kadobetku.com/?ref=rakuyaba");}
 function xsweet777() {window.open("https://www.sweet777b.website/register?ref=GS2AEAB0SVJ");}
-function xhokiwin() {window.open("https://hokiwinw.com/register/Y5NQP87K");}
+function xhokiwin() {window.open("https://hokiwinx.com/register/Y5NQP87K");}
 function xkas138() {window.open("https://138kas.today/?ref=rakuyaba");}
 function xjudi388() {window.open("https://jd388mantap.top/register?reff=rakuyaba");}
 function xkudetabet98() {window.open("https://kudetabet98webofficial.com/");}
@@ -147,7 +147,7 @@ function xroyal123() {window.open("https://www.royal123kz.com/register?ref=F88M1
 function xn77toto() {window.open("http://n77toto-id.com/register?referral_code=rakuyaba");}
 function xmpocasino() {window.open("https://situs-slot-mpocasino.com/register/Y85226NG");}
 function xnagatop() {window.open("https://nagatoppunya.online//register?ref=bunsin");}
-function xaquaslot() {window.open("https://aquaslotdadu.com/?ref=bunsin");}
+function xaquaslot() {window.open("https://aquamahjong.com/?ref=bunsin");}
 function xome88() {window.open("https://www.masukome88.xyz/register?ref=COXGMBL134C");}
 function xmega38() {window.open("https://mg38ku.pro/register?ref=naynlqk");}
 function xmpo369() {window.open("https://mpo369b2.com/register/W7N46140");}
