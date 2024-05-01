@@ -13,7 +13,7 @@ function xadipatislot() {window.open("https://adipatislot-vip.com/");}
 function xlotuspelangi() {window.open("https://pelangihujan.store/daftar?ref=rakuyaba");}
 function xbk8() {window.open("https://www.bk8xidmenang.com/");}
 function xflash303super() {window.open("https://flash303vip.skin/?ref=rakuyaba");}
-function xfijislot() {window.open("https://fijislot2.vip/register?ref=VABAAA10IAH");}
+function xfijislot() {window.open("https://fijislot3.wiki/register?ref=VABAAA10IAH");}
 function xmaxwin88() {window.open("http://maxwin88los.bond/ref/?rid=rf10k5096ef");}
 function xskslot() {window.open("https://rumahbening64.com/register?ref=rakuyaba");}
 function xjackpot168() {window.open("https://jackpot168qq.com/");}
