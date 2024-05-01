@@ -63,7 +63,7 @@ function xrajatoto3() {window.open("https://rajatoto3wild.com/register?ref=WnDsx
 function xzona66() {window.open("https://zona66q.pro/");}
 function xmpo666() {window.open("https://mpo666six.com/register/WM41P433");}
 function xmpo555() {window.open("https://mpo555-fair.xyz/register/WR3N6NQ9");}
-function xkadobet() {window.open("https://kadobetku.xyz/?ref=rakuyaba");}
+function xkadobet() {window.open("https://kadobetku.store/?ref=rakuyaba");}
 function xsweet777() {window.open("https://www.sweet777b.info/register?ref=GS2AEAB0SVJ");}
 function xhokiwin() {window.open("https://hokiwinx.com/register/Y5NQP87K");}
 function xkas138() {window.open("https://138kas.today/?ref=rakuyaba");}
