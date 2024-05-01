@@ -158,3 +158,4 @@ function xbetcoinasia() {window.open("https://bet-coin.info/?ref=bunsin");}
 function xjangkaslot() {window.open("https://noblockss.blogspot.com/");}
 function xno() {window.open("https://nosafetyy.blogspot.com/");}
 function xpphoki() {window.open("https://pphok99.com/?ref=rakuyaba");}
+function xupdate() {window.open("http://judisuhu.online/");}
