@@ -136,7 +136,7 @@ function xairbet88() {window.open("https://situsgacorairbet88.live/register?ref=
 function xgaulbet77() {window.open("https://lagaulbettujuh27.site/register/YPLRNNDQ");}
 function xlapakslot777() {window.open("https://tokenbca.xyz/register/WM0KJ7Q2");}
 function xharbet35() {window.open("https://harbet35.today/?ref=rakuyaba");}
-function xpreman69() {window.open("http://preman69room.vip/daftar?ref=rakuyaba");}
+function xpreman69() {window.open("http://preman69site.pro/daftar?ref=rakuyaba");}
 function xtokekwin() {window.open("http://xn--u9j1mfz5985c9man734a.xn--mk1bu44c/daftar?ref=rakuyaba");}
 function xjnt77() {window.open("https://jnt77mega02.com/daftar?ref_id=5f6e2101");}
 function xdewakoin() {window.open("https://dewakoin-ok.xyz/register?ref=PABAAAP0MH8");}
