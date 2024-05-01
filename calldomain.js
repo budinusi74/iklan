@@ -1,7 +1,7 @@
 function xtogeltoto() {window.open("https://noblockss.blogspot.com/");}
 function xjetplay88() {window.open("https://jetplay88abc.top/register/W4J0K065");}
 function xkoin313() {window.open("https://gerabahkeramik.xyz/register?ref=8tzjPAm");}
-function xindoagen188() {window.open("https://indoagen188.hair/register/W518KB66");}
+function xindoagen188() {window.open("https://indoagen188.motorcycles/register/W518KB66");}
 function xnexus77() {window.open("https://noblockss.blogspot.com/");}
 function xnusabet() {window.open("https://nusalink.sbs/register?ref=4406747");}
 function xtkp303() {window.open("https://tkp333a.com/");}
