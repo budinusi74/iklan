@@ -117,7 +117,7 @@ function xjawara88() {window.open("https://88jawara.store/register?ref=ZABABAW0P
 function xyakinslot88() {window.open("https://yakinslot88a.xyz/register/WQ841109");}
 function xpoa88() {window.open("https://faithefc.org/?ref=rakuyaba");}
 function xhoki138() {window.open("https://hoki138max.com/");}
-function xmansion77() {window.open("https://www.mansions777.net/register?ref=4225754");}
+function xmansion77() {window.open("https://www.mansions777.co/register?ref=4225754");}
 function xtatabet() {window.open("https://www.tatabet0324b.com/");}
 function xsatutogel() {window.open("https://www.xn--satutogel-yv6ni36m.com/");}
 function xlotto01() {window.open("https://sololoto.com/referral/BUNSIN");}
