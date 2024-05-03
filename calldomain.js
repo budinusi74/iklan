@@ -120,7 +120,7 @@ function xhoki138() {window.open("https://hoki138max.com/");}
 function xmansion77() {window.open("https://www.mansions777.co/register?ref=4225754");}
 function xtatabet() {window.open("https://www.tatabet0324b.com/");}
 function xsatutogel() {window.open("https://www.xn--satutogel-yv6ni36m.com/");}
-function xlotto01() {window.open("https://sololoto.com/referral/BUNSIN");}
+function xlotto01() {window.open("https://winlotomax.net/referral/BUNSIN");}
 function xdewatogel() {window.open("http://linkdt.store/register?referral_code=bunsin");}
 function xsquad777() {window.open("https://lp.mainsquad777.click/register?ref=bunsin");}
 function xmpo888() {window.open("https://mpo888jago.com/register/DB50318F");}
