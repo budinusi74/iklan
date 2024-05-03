@@ -1,6 +1,6 @@
 function xtogeltoto() {window.open("https://noblockss.blogspot.com/");}
 function xjetplay88() {window.open("https://jetplay88wd.cloud/register/W4J0K065");}
-function xkoin313() {window.open("https://eurocoin.site/register?ref=8tzjPAm");}
+function xkoin313() {window.open("https://top1coin.site/register?ref=8tzjPAm");}
 function xindoagen188() {window.open("https://indagen188.bond/register/W518KB66");}
 function xnexus77() {window.open("https://noblockss.blogspot.com/");}
 function xnusabet() {window.open("https://nusalink.sbs/register?ref=4406747");}
