@@ -142,7 +142,7 @@ function xjnt77() {window.open("https://jnt77mega02.com/daftar?ref_id=5f6e2101")
 function xdewakoin() {window.open("https://dewakoin-ok.xyz/register?ref=PABAAAP0MH8");}
 function xdiva168() {window.open("https://diva168sg11.com/register?ref=BR1q0YoS");}
 function xsgpslot() {window.open("https://www.uwusgpslot.com/register?ref=4186659");}
-function xmusangwin() {window.open("https://xn--80aec8agiocr.xn--mk1bu44c/register?ref=2M3TNAFSH7A");}
+function xmusangwin() {window.open("https://controlmusang.pro/register?ref=2M3TNAFSH7A");}
 function xroyal123() {window.open("https://kingisafink.com/register?ref=F88M1AN0ZJ2");}
 function xn77toto() {window.open("http://n77toto.quest/register?referral_code=rakuyaba");}
 function xmpocasino() {window.open("https://slot-gacor-mpocasino.com/register/Y85226NG");}
