@@ -23,7 +23,7 @@ function xibosport() {window.open("https://v2ibo.life/");}
 function xslotmacau188() {window.open("https://sm188link.digital/");}
 function xpiontogel() {window.open("https://akupion.com/link.php?member=rakuyaba");}
 function xtektok77() {window.open("https://tektok77thai.com/register?ref=cvdwOsa");}
-function xdauntogel() {window.open("https://daunjuga.net/link.php?member=rakuyaba");}
+function xdauntogel() {window.open("https://daunkeren.com/link.php?member=rakuyaba");}
 function xindogenting() {window.open("https://www.indogenting0324e.com/");}
 function xkenzo188() {window.open("https://waktukenzo.shop/register?ref=A3MMMAF4PO7");}
 function xpmg88() {window.open("https://www.pmg88ok.site/register?ref=u2y78Bp");}
