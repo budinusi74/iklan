@@ -135,7 +135,7 @@ function xbom29toto() {window.open("https://b29rip.com/link.php?member=rakuyaba"
 function xairbet88() {window.open("https://situsslotairbet88.website/register?ref=rakunn");}
 function xgaulbet77() {window.open("https://lagaulbettujuh27.site/register/YPLRNNDQ");}
 function xlapakslot777() {window.open("https://lapakjuara.top/register/WM0KJ7Q2");}
-function xharbet35() {window.open("https://harbet35.today/?ref=rakuyaba");}
+function xharbet35() {window.open("https://harbet35.monster/?ref=rakuyaba");}
 function xpreman69() {window.open("http://preman69site.pro/daftar?ref=rakuyaba");}
 function xtokekwin() {window.open("http://xn--u9j1mfz5985c9man734a.xn--mk1bu44c/daftar?ref=rakuyaba");}
 function xjnt77() {window.open("https://jnt77mega02.com/daftar?ref_id=5f6e2101");}
