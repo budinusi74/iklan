@@ -93,7 +93,7 @@ function xliga365new() {window.open("https://newliga365k.xyz/?action=register&rc
 function xslotoppo88() {window.open("https://sltoppo88.com/?ref=rakuyaba");}
 function xjadijp() {window.open("https://jadijp3.lol/?ref=rakuyaba");}
 function xwisdom77() {window.open("https://wisdom77go.click/?ref=rakuyaba");}
-function xlembagatoto() {window.open("http://lembagatoto10.com/register?referral_code=rakuyaba");}
+function xlembagatoto() {window.open("http://lembagatoto21.com/register?referral_code=rakuyaba");}
 function xw77() {window.open("https://w-akurat.xyz/");}
 function xunoplay() {window.open("https://www.unoplaygacor.com/register?ref=E48A47B5");}
 function xjoki55() {window.open("https://www.vippjoki55.site/register?ref=COXGNBO1IS3");}
