@@ -67,7 +67,7 @@ function xkadobet() {window.open("https://kadobetku.store/?ref=rakuyaba");}
 function xsweet777() {window.open("https://www.sweet777b.info/register?ref=GS2AEAB0SVJ");}
 function xhokiwin() {window.open("https://hokiwinx.com/register/Y5NQP87K");}
 function xkas138() {window.open("https://138kas.today/?ref=rakuyaba");}
-function xjudi388() {window.open("https://jd388terbaik.top/register?reff=rakuyaba");}
+function xjudi388() {window.open("https://jd388asli.top/register?reff=rakuyaba");}
 function xkudetabet98() {window.open("https://kudetabet98webofficial.com/");}
 function xmpo333bet() {window.open("https://mpo333bet-for.xyz/register?ref=GGGIGAM2LH1");}
 function x66kone() {window.open("https://66kbet33s.top/?id=82990882&currency=IDR&type=2");}
