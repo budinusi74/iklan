@@ -34,7 +34,7 @@ function xantiktoto() {window.open("https://antiktogel.vip/link.php?member=rakuy
 function xklikjp() {window.open("https://klikjplagi.xyz/register?referral=rakuyaba");}
 function xkijangwin() {window.open("https://kijangwinplay.pro/daftar?ref=rakuyaba");}
 function xaurajp() {window.open("https://aurajpmantap.vatozagency.com/?ref=rakuyaba");}
-function xspesial303() {window.open("https://terusnawala.site/register?ref=rakuyaba");}
+function xspesial303() {window.open("https://terusnawala.shop/register?ref=rakuyaba");}
 function xxuxu4d() {window.open("https://xuxucair.com/?ref=rakuyaba");}
 function xrahayu88() {window.open("https://rahayu88vip.store/");}
 function xboss177() {window.open("https://pelangganboss.com/register?ref=rakuyaba");}
