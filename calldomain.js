@@ -7,7 +7,7 @@ function xnusabet() {window.open("https://nusalink.sbs/register?ref=4406747");}
 function xtkp303() {window.open("https://tkp333a.com/");}
 function x303hoki() {window.open("https://303hkutama.com/register/Y66KPQ1K");}
 function xapi77() {window.open("https://api77q.site/account/register/158909985");}
-function xcor77() {window.open("https://www.cor77.games/register?ref=8GGAEAC1CUR");}
+function xcor77() {window.open("https://cor77l.com/register?ref=8GGAEAC1CUR");}
 function xvit88() {window.open("https://vit88f.com/");}
 function xadipatislot() {window.open("https://adipatislot-vip.com/");}
 function xlotuspelangi() {window.open("https://pelangihujan.xyz/daftar?ref=rakuyaba");}
