@@ -137,7 +137,7 @@ function xgaulbet77() {window.open("https://lagaulbettujuh27.site/register/YPLRN
 function xlapakslot777() {window.open("https://lapakjuara.top/register/WM0KJ7Q2");}
 function xharbet35() {window.open("https://harbet35.monster/?ref=rakuyaba");}
 function xpreman69() {window.open("http://preman69site.pro/daftar?ref=rakuyaba");}
-function xtokekwin() {window.open("http://xn--u9j1mfz5985c9man734a.xn--mk1bu44c/daftar?ref=rakuyaba");}
+function xtokekwin() {window.open("http://tokekwinsite.pro/daftar?ref=rakuyaba");}
 function xjnt77() {window.open("https://jnt77mega02.com/daftar?ref_id=5f6e2101");}
 function xdewakoin() {window.open("https://dewakoin-ok.xyz/register?ref=PABAAAP0MH8");}
 function xdiva168() {window.open("https://diva168sg11.com/register?ref=BR1q0YoS");}
