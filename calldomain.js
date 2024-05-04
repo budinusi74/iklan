@@ -1,5 +1,5 @@
 function xno() {window.open("https://nosafetyy.blogspot.com/");}
-function xlanjut88() {window.open("https://lanjut88bosku.com/");}
+function xlanjut88() {window.open("https://lanjut88bosku.com/?ref=rakuyaba");}
 function xjetplay88() {window.open("https://jetplay88oke.shop/register/W4J0K065");}
 function xkoin313() {window.open("https://top1coin.site/register?ref=8tzjPAm");}
 function xindoagen188() {window.open("https://indagen188.bond/register/W518KB66");}
