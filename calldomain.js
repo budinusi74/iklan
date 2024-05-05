@@ -146,7 +146,7 @@ function xjnt77() {window.open("https://jnt77superbet.com/daftar?ref_id=5f6e2101
 function xdewakoin() {window.open("https://dewakoin-vip1.xyz/register?ref=PABAAAP0MH8");}
 function xdiva168() {window.open("https://kiwimanis168.com/register?referral=15542094924");}
 function xsgpslot() {window.open("https://www.uwusgpslot.com/register?ref=4186659");}
-function xmusangwin() {window.open("https://musangwinn.com/register?ref=2M3TNAFSH7A");}
+function xmusangwin() {window.open("https://xn--v92bo5ho8e.xn--mk1bu44c/register?ref=2M3TNAFSH7A");}
 function xroyal123() {window.open("https://www.royal123tc.com/register?ref=F88M1AN0ZJ2");}
 function xn77toto() {window.open("http://n77toto.website/register?referral_code=rakuyaba");}
 function xmpocasino() {window.open("https://mpocasino-resmi.xyz/register/Y85226NG");}
