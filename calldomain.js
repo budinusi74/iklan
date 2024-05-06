@@ -60,7 +60,7 @@ function xm88() {window.open("https://www.ms8orl.com/");}
 function xalexabet88() {window.open("https://alexabet88ar.com/register?ref=4284846");}
 function xraja168() {window.open("https://slotraja168.site/register?ref=MKPAFAA02AN");}
 function xkiw69() {window.open("https://kiw69lagi.com/register?ref=E3MDNAC135S");}
-function xmpo08() {window.open("https://mpo08time.com/register/WM418MNP");}
+function xmpo08() {window.open("https://mpo08cam.com/register/WM418MNP");}
 function xwis77() {window.open("https://wis77naga.com/");}
 function xdewa234() {window.open("https://dewa234get.com/register/W42BG936");}
 function xrajatoto3() {window.open("https://rajatoto3pirate.com/register?ref=WnDsxSx8");}
