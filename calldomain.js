@@ -126,7 +126,7 @@ function xtatabet() {window.open("https://www.tatabet0324b.com/");}
 function xsatutogel() {window.open("https://www.xn--satutogel-yv6ni36m.com/");}
 function xlotto01() {window.open("https://winlotomax.net/referral/BUNSIN");}
 function xdewatogel() {window.open("http://linkdwt.us/register?referral_code=bunsin");}
-function xsquad777() {window.open("https://lp.mainsquad777.click/register?ref=bunsin");}
+function xsquad777() {window.open("https://join.tempatsquad777.net/register?ref=bunsin");}
 function xmpo888() {window.open("https://3.mpo888ok.com/register/DB50318F");}
 function x8togel() {window.open("https://8togel.com/referral/GACOR777");}
 function xscbet88() {window.open("https://www.scbet88cor.xyz/ref/?rid=rf1e12634b7");}
