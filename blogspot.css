@@ -203,8 +203,7 @@ font-size: 0.5rem;
 }
 
 .logonormal, .logokecil, .logomedium, .logopanjang {
-  position: inherit;
-  margin:0% 0% 0px -4%;
+  object-fit:scale-down;
 }
   
 .logonormal {
