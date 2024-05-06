@@ -99,7 +99,7 @@ function xjadijp() {window.open("https://jadijpmasterslot.schlepzig.com/?ref=rak
 function xwisdom77() {window.open("https://wisdom77go.yachts/?ref=rakuyaba");}
 function xlembagatoto() {window.open("https://lembagatoto23.com/link.php?member=rakuyaba");}
 function xw77() {window.open("https://w-gacorbanget.xyz/");}
-function xunoplay() {window.open("https://www.unoplay1gacor.top/register/?ref=E48A47B5");}
+function xunoplay() {window.open("https://www.unoplaygacor.com/register/?ref=E48A47B5");}
 function xjoki55() {window.open("https://joki55oke.xyz/register?ref=COXGNBO1IS3");}
 function xauto177() {window.open("https://goauto177.ink/?ref=rakuyaba");}
 function x8bettingan() {window.open("https://bettingans.online/register?ref=QZPZPBE00O4");}
