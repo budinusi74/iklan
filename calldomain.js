@@ -133,7 +133,7 @@ function xscbet88() {window.open("https://www.scbet88cor.xyz/ref/?rid=rf1e12634b
 function xshiokambing() {window.open("https://adarezeki.com/register?ref=rakuyaba");}
 function xhoki177() {window.open("https://kota177.com/register?ref=rakuyaba");}
 function xgacor88() {window.open("https://elclubmascotas.com/register?ref=vtFlLkv");}
-function xdemen303() {window.open("https://demen303go.com/register?ref=buns1n");}
+function xdemen303() {window.open("https://demen303jp.org/register?ref=buns1n");}
 function xgacorslot() {window.open("https://gacorslott.com/register/WQ8K3KMR");}
 function xbom29toto() {window.open("https://b29rip.com/link.php?member=rakuyaba");}
 function xairbet88() {window.open("https://linkairbet88gacor.com/register?ref=rakunn");}
