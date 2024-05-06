@@ -13,7 +13,7 @@ function x303hoki() {window.open("https://303hkpecah.com/register/Y66KPQ1K");}
 function xapi77() {window.open("https://api77q.site/account/register/158909985");}
 function xcor77() {window.open("https://cor77l.com/register?ref=8GGAEAC1CUR");}
 function xvit88() {window.open("https://vit88f.com/");}
-function xadipatislot() {window.open("https://adipatislot-vip.com/");}
+function xadipatislot() {window.open("https://adipatislot-fairplay.com/");}
 function xlotuspelangi() {window.open("https://pelangihujan.xyz/daftar?ref=rakuyaba");}
 function xbk8() {window.open("https://www.bk8xidmenang.com/");}
 function xflash303super() {window.open("https://flash303vip.skin/?ref=rakuyaba");}
