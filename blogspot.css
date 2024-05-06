@@ -1,0 +1,490 @@
+.menu1{width: 100%;text-align: center;}
+
+.tombol {
+  position:relative;
+  left:-1.5%;
+  padding:0px 0px 0px 0px;
+  margin: 2px 1px 0px 1px;
+  font-family: inherit;
+  font-size: 16px;
+  line-height: inherit;
+  width: 21.8%;
+  height: 70px;
+  background-color: #0000004d;
+  border: 2px solid #fffb00;
+  border-radius: 10px;
+  font-weight: bold;
+  color: black;
+  cursor: pointer;
+}
+
+.tombol:hover {
+  background-color: #00ffc4;
+}
+
+.joinBtn {
+  width: 100%;
+  height: 100%;
+  background-color: #424f4e;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-weight: bold;
+  color: black;
+  cursor: pointer;
+}
+
+.joinBtn:hover {
+  background-color: #00ffc4;
+}
+
+.img-menu {
+  width: 60px;
+  height: 100%;
+}
+
+.shadow-menu{
+  text-align:center;
+  text-shadow: 0px 0px 2px #222,
+               0px 0px 2px #222;
+  animation: flickermenu 1s infinite alternate; 
+}
+/* Flickering animation */
+@keyframes flickermenu {
+    
+  0%, 0%, 0%, 0%, 0%, 0%, 100% {
+
+      text-shadow:
+      0 0 2px aqua,
+      0 0 2px aqua,
+      0 0 2px aqua,
+      0 0 2px aqua,
+      0 0 2px aqua,
+      0 0 2px aqua,
+      0 0 2px aqua,
+      0 0 2px aqua;
+  
+  }
+  100%, 100%, 100% {        
+      text-shadow: none;
+  }    
+}
+
+.text {
+    color: #555;
+}
+
+.tutoroverlay {
+  text-align-last:left;
+  height: 0%;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.9);
+  overflow-y: auto;
+  transition: 0.5s;
+}
+
+.tutoroverlay-content {
+  background-color:#979797;
+  position: relative;
+  top: 8%;
+  width: 95%;
+  text-align: initial;
+  margin: 20px 0px 0px 2%;
+  padding:0px 0px 0px 10px;
+}
+
+.tutoroverlay a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 36px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.tutoroverlay p {
+  color: #0b1212;
+    font-family: Helvetica, Serif;
+    font-size: 18px;
+    margin: 15px 0 0em;
+}
+
+.tutoroverlay a:hover, .overlay a:focus {
+  color: #f1f1f1;
+}
+
+.tutoroverlay .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 45px;
+  font-size: 60px;
+}
+
+@media screen and (max-height: 450px) {
+  .tutoroverlay {overflow-y: auto;}
+  .tutoroverlay a {font-size: 20px}
+  .tutoroverlay .closebtn {
+  font-size: 40px;
+  top: 15px;
+  right: 35px;
+  }
+}
+
+
+.tposisi{
+height:30px;              
+text-align:start;
+background-color:#0000;
+padding: 0px 0px 0px 0%;
+font-weight: 100;
+margin-top: 0.2rem;
+margin-bottom: 0rem;
+font-size: 2rem;
+line-height: 65%;
+}
+
+.shadow-tut {
+  text-align:center;
+  text-shadow: 0px 0px 2px #222,
+               0px 0px 2px #222;
+font-size: 0.5rem;
+  animation: flickertut 1.5s infinite alternate; 
+}
+/* Flickering animation */
+@keyframes flickertut {
+    
+  0%, 0%, 0%, 0%, 0%, 0%, 100% {
+
+      text-shadow:
+      0 0 20px aqua,
+      0 0 20px aqua,
+      0 0 20px aqua,
+      0 0 20px aqua,
+      0 0 20px aqua,
+      0 0 20px aqua,
+      0 0 20px aqua,
+      0 0 20px aqua;
+  
+  }
+  20%, 24%, 55% {        
+      text-shadow: none;
+  }    
+}
+.shadow-win {
+  text-align:center;
+  text-shadow: 0px 0px 2px #222,
+               0px 0px 2px #222;
+font-size: 0.5rem;
+  animation: flickerwin 0.1s infinite alternate; 
+}
+/* Flickering animation */
+@keyframes flickerwin {
+    
+  0%, 0%, 0%, 0%, 0%, 0%, 100% {
+
+      text-shadow:
+      0 0 2px red,
+      0 0 2px red,
+      0 0 2px red,
+      0 0 2px red,
+      0 0 2px red,
+      0 0 2px red,
+      0 0 2px red,
+      0 0 2px red;
+  
+  }
+  20%, 24%, 55% {        
+      text-shadow: none;
+  }    
+}
+
+.logonormal, .logokecil, .logomedium, .logopanjang {
+  position: inherit;
+  margin:0% 0% 0px -4%;
+}
+  
+.logonormal {
+  height:65%;
+  width:85%;
+} 
+  
+.logokecil {
+  margin:2% 0% 0px 0%;
+  height:90%;
+  width:50%;
+} 
+  
+.logomedium {
+  height:80%;
+  width:70%;
+} 
+  
+.logopanjang {
+  margin:4% 0% 0px -4%;
+  height:45%;
+  width:95%;
+} 
+  
+.namasitus {
+  color: #516fe3; 
+  font-size: 0px;
+}  
+  
+.fb, .tawk, .tutup {
+  border-radius:25px;
+  font-size:11px;
+  float: left;
+  height:30px;
+  width: 33.3%;
+}
+.fb, .tawk {
+  color: white;
+}
+.fb {
+  background-color: #0866ff;
+}
+.tawk {
+  background-color: #03a84e;
+}
+.warnatextchat {
+  color: blue;
+}
+  
+.videocara {
+  height: 450px;
+  width: 100%;
+}
+
+.ukuranketerangan {
+  height: 450px;
+  width: 100%;
+}
+
+.warnabahaya {
+  color: red;
+}
+
+.cancelbtn1, .deletebtn1 {
+  border-radius:25px;
+  color:black;
+  font-size:20px;
+  float: left;
+  height:50px;
+  width: 49.9%;
+}
+
+/* Add a color to the cancel button */
+.cancelbtn1 {
+  background-color: #00ff6f;
+}
+
+/* Add a color to the delete button */
+.deletebtn1 {
+  background-color: #f44336;
+}
+
+.ttpupdatelink {
+border-radius:25px;
+  font-size:20px;
+  float: left;
+  height:50px;
+  width: 100%;
+  background-color: #00ff6f;
+  color: black;
+}
+
+/* Add padding and center-align text to the container */
+.container {
+  padding: 16px;
+  font-size:7px;
+  text-align: center;
+}
+
+/* The Modal (background) */
+.modalbahaya1 {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: #0000;
+  padding-top: 50px;
+}
+
+/* Modal Content/Box */
+.modalbahaya1-content {
+  background-color: #a1afae;
+  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* Style the horizontal ruler */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+ 
+/* The Modal Close Button (x) */
+.close {
+  position: absolute;
+  right: 35px;
+  top: 15px;
+  font-size: 40px;
+  font-weight: bold;
+  color: #f1f1f1;
+}
+
+.close:hover,
+.close:focus {
+  color: #f44336;
+  cursor: pointer;
+}
+
+/* Clear floats */
+.clearfixbahaya::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Change styles for cancel button and delete button on extra small screens */
+@media screen and (max-width: 300px) {
+  .cancelbtn, .deletebtn {
+     width: 100%;
+  }
+}  
+  
+  
+.groupsm {
+  padding: 0 0px;
+  height:70px;
+  width: 100%;
+}   
+.groupssemua, .groupsaman, .groupswaspada, .groupsbahaya, .groupsupdatelink{
+  border-radius:25px;
+  color:#fff;
+  font-size:17px;
+  padding: 0 0px;
+  margin:3px;
+  float: left;
+  height:50px;
+  width: 18.0%;
+} 
+ .groupssemua {
+  background-color:#5f7475;
+} 
+ .groupsaman {
+  background-color:#2c753f;
+} 
+.groupswaspada {
+  background-color:#a5af09;
+} 
+.groupsbahaya {
+  background-color:#9f001dfa;
+}  
+.groupsupdatelink {
+  background-color:#56629b;
+} 
+  
+.responsiveaman, .responsivewaspada, .responsivebahaya {
+  border-radius:25px;
+  padding: 0 0px;
+  float: left;
+  height:70px;
+
+}
+@media only screen and (max-width: 700px) {
+  .responsiveaman, .responsivewaspada, .responsivebahaya{
+    margin: 0px 0;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .responsiveaman, .responsivewaspada, .responsivebahaya {
+
+  }
+}
+.responsiveaman {
+  background-color:#507f5c;
+}
+.responsivewaspada {
+  background-color:#70751d;
+}
+.responsivebahaya {
+  background-color:#6d1818fa;
+}
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+* {
+  box-sizing: border-box;
+}
+
+#myInput {
+  background-image: url('/css/searchicon.png');
+  position: relative;
+  border-radius:28px;
+  width: 95%;
+  height:70px;
+  left:1.5%;
+  font-size: 20px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 2px;
+}
+
+#myUL {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.shadow-chat {text-shadow: 0px 0px 2px #222,0px 0px 2px #222;font-size: 0.5rem;
+  animation: flickerchat 1.5s infinite alternate; }/* Flickering animation */
+@keyframes flickerchat {0%, 0%, 0%, 0%, 0%, 0%, 100% {text-shadow:0 0 3px #09e6a8,0 0 3px #09e6a8,0 0 3px #09e6a8,0 0 3px #09e6a8,0 0 3px #09e6a8, 0 0 3px #09e6a8,0 0 3px #09e6a8,0 0 3px #09e6a8;} 20%, 24%, 55% {        text-shadow: none;}    }
+
+.shadow-fbdemo {text-shadow: 0px 0px 0.1px #222,0px 0px 0.1px #222;font-size: 0.1rem;
+  animation: flickerfbdemo 2.5s infinite alternate; }/* Flickering animation */
+@keyframes flickerfbdemo {0%, 0%, 0%, 0%, 0%, 0%, 100% {text-shadow:0 0 10px #087525,0 0 10px #087525,0 0 10px #087525,0 0 10px #087525,0 0 10px #087525,0 0 10px #087525,0 0 10px #087525, 0 0 10px #087525;} 20%, 24%, 55% {  text-shadow: none;}}
+  
+.card{float:left;width:11.1%;background:0 0;border:none;text-align:center;display:inline-grid;position:relative}.card-content{margin:5px;color:#fff;font-size:12px;border:none;overflow:hidden;position:relative}
+.percent{height:27px;display:flex;overflow:hidden;border-radius:10px;line-height:0;font-size:.75rem;background-color:#e9ecef;position:relative;z-index:1}.percent p{z-index:15;position:absolute;text-align:center;width:100%;font-size:14px;font-weight:700;transform:translateY(14px);color:#000}.percent-bar{background-image:linear-gradient(45deg,rgba(255,255,255,0.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,0.15) 50%,rgba(255,255,255,0.15) 75%,transparent 75%,transparent);background-size:1rem 1rem;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;-ms-flex-pack:center;justify-content:center;overflow:hidden;color:#fff;text-align:center;white-space:nowrap;transition:width 6s ease;-webkit-animation:progress-bar-stripes 1s linear infinite;animation:progress-bar-stripes 1s linear infinite;z-index:10}.yellow{background-color:#ffc107}.green{background-color:#28a745}.red{background-color:#dc3545}.hover-btn{position:absolute;opacity:0;background-color:rgba(0,0,0,.65);transition:all .45s ease-in-out;z-index:10;width:100%}.play-btn{font-size:15px;text-decoration:none;color:#fff;text-align:center;align-items:center;width:100%;margin:25% auto;padding:8px;background-color:#15b586}.img-zoom{transition:all .45s ease-in-out;}.hover-btn:hover{opacity:100%}.hover-btn:hover~.img-zoom{transform:scale(1.2);position:relative}.next-btn{display:none;width:30%}.mySlides{display:none}.next-btn{background-color:#292a2b;border:none;color:#fff}.jamgacor{background-image:linear-gradient(#00ec00,#00b40e);font-family:poppins,sans-serif!important;padding:3px;padding-top:6px;border-top-left-radius:6px;border-top-right-radius:6px;border:.1px solid #000}.jamgacor h5{font-size:1.3em}.progress{height:fit-content}.pola{background-image:linear-gradient(#003dfd,#0177cc);font-family:poppins,sans-serif!important;padding:3px;padding-top:6px;border-bottom-left-radius:6px;border-bottom-right-radius:6px;border:.1px solid #000}.jam{font-size:8.5px;margin-bottom:0.1px 0px 0.1px 0px;padding:0.9px 0px 0px 0px;color:#000;font-weight:700}.jam h5{font-size:1em;font-weight:700}.jamBg{background-image:linear-gradient(45deg,rgba(255,255,255,0.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,0.15) 50%,rgba(255,255,255,0.15) 75%,transparent 75%,transparent);transition:width .6s ease;-webkit-animation:progress-bar-stripes 1s linear infinite;animation:progress-bar-stripes 1s linear infinite;background-size:1rem 1rem}.mySlides{position:relative}.mySlides .slot-sidebar-nav{overflow:scroll;position:relative;padding:0 22px}.mySlides .doprev{position:absolute;height:100%;width:22px;left:0;background:#000;z-index:2}.mySlides .donext{position:absolute;height:100%;width:22px;right:0;background:#000;z-index:2}.btntop{margin:10px 0 0}.btn.full{width:100%;margin-bottom:5px}.bannerdiv{padding:5px 5px 0}@media(min-width:576px){.container{max-width:540px}}@media(min-width:768px){.container{max-width:100%;font-size:larger;}}@media(min-width:992px){.container{max-width:100%}}@media(min-width:1200px){.container{max-width:100%}}@media(max-width:992px){.slot-sidebar-nav{flex-wrap:nowrap}.slot-sidebar{float:none!important;width:100%!important;flex:none!important;max-width:100%!important;padding-right:0!important}.content{float:none!important;width:100%!important;flex:none!important;max-width:100%!important}.card{width:33.3%!important}.hover-btn:hover{opacity:0}.hover-btn:hover~.img-zoom{transform:scale(1);position:relative}body{background:aliceblue}.btn-provider{text-align:center;display:block}.slot-sidebar-nav&gt;li&gt;a{height:70px}.enter{display:block}.btn-provider span{position:unset}.btn-provider i{margin:0}.slot-sidebar-nav li{border-left:.2px solid #656565;border-right:.2px solid #656565;border-bottom:none}.img-zoom{height:auto}.next-btn{display:block}.res-bar{display:none}.jamgacor&gt;h5{font-size:1em}.pola&gt;p{font-size:.8em}}@media(max-width:576px){.pola&gt;p{font-size:.75em!important}}@media only screen and (max-width:600px){.mySlides{display:inline-flex}}  
+   
+.textmenu {
+position:relative;
+top:-7%;
+color:#fff;
+text-align: center;
+font-size: 80%;
+margin-bottom: 3.01%;
+white-space: nowrap;
+border: 1px solid #0000;
+padding:0px 0% 0px 0%;
+overflow: hidden;
+text-overflow: ellipsis;
+}
+
+.hidescroll {
+background-color:transparent;
+width: 100%;
+height: 100%;
+overflow-y: scroll; /* Add the ability to scroll */
+}
+/* Hide scrollbar for Chrome, Safari and Opera */
+.hidescroll::-webkit-scrollbar {
+display: none;
+}
+/* Hide scrollbar for IE, Edge and Firefox */
+.hidescroll {
+-ms-overflow-style: none;  /* IE and Edge */
+scrollbar-width: auto;  /* Firefox */
+}
