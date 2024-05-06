@@ -66,7 +66,7 @@ function xdewa234() {window.open("https://dewa234get.com/register/W42BG936");}
 function xrajatoto3() {window.open("https://rajatoto3pirate.com/register?ref=WnDsxSx8");}
 function xzona66() {window.open("https://zona66q.pro/");}
 function xmpo666() {window.open("https://mpo666oo.com/register/WM41P433");}
-function xmpo555() {window.open("https://mpo555-u23.xyz/register/WR3N6NQ9");}
+function xmpo555() {window.open("https://mpo555-membara.xyz/register/WR3N6NQ9");}
 function xkadobet() {window.open("https://kadobetab.com/?ref=rakuyaba");}
 function xsweet777() {window.open("https://www.sweet777b.xyz/register?ref=GS2AEAB0SVJ");}
 function xhokiwin() {window.open("https://hokiwiny.com/register/Y5NQP87K");}
