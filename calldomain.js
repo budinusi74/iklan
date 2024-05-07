@@ -63,7 +63,7 @@ function xkiw69() {window.open("https://kiw69lagi.com/register?ref=E3MDNAC135S")
 function xmpo08() {window.open("https://mpo08cam.com/register/WM418MNP");}
 function xwis77() {window.open("https://wis77naga.com/");}
 function xdewa234() {window.open("https://dewa234get.com/register/W42BG936");}
-function xrajatoto3() {window.open("https://rajatoto3pirate.com/register?ref=WnDsxSx8");}
+function xrajatoto3() {window.open("https://rajatoto3buzzing.com/register?ref=WnDsxSx8");}
 function xzona66() {window.open("https://zona66q.pro/");}
 function xmpo666() {window.open("https://mpo666oo.com/register/WM41P433");}
 function xmpo555() {window.open("https://mpo555-membara.xyz/register/WR3N6NQ9");}
