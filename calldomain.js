@@ -50,7 +50,7 @@ function xneo177() {window.open("https://hebikuhibi.com/register?ref=rakuyaba");
 function xwishslot() {window.open("https://wishslot.makeup/register?ref=1BnwRn2");}
 function xjet88bet() {window.open("https://jet88bet1.shop/?ref=rakuyaba");}
 function xbagus88() {window.open("https://170.64.185.90:88/register?ref=Mega5z7");}
-function xgemoy02() {window.open("https://gemoy02okegas.com/register?ref=ONEAAAH00P8");}
+function xgemoy02() {window.open("https://xn--lgbbb3as3g0a0aq.shop/register?ref=ONEAAAH00P8");}
 function xareabola() {window.open("http://146.190.101.102/");}
 function xcvtogel() {window.open("http://cvtogeloke.org/register?referral_code=rakuyaba");}
 function xole777() {window.open("https://mobi.gol8553.com/#/register?referral=nn97j3Yw");}
