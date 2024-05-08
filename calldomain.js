@@ -103,7 +103,7 @@ function xunoplay() {window.open("https://www.unoplaygacor.com/register/?ref=E48
 function xjoki55() {window.open("https://www.55joki.org/register?ref=COXGNBO1IS3");}
 function xauto177() {window.open("https://goauto177.ink/?ref=rakuyaba");}
 function x8bettingan() {window.open("https://bettingans.online/register?ref=QZPZPBE00O4");}
-function xmegabandar() {window.open("https://megabandarjp11.xyz/register?ref=3173970");}
+function xmegabandar() {window.open("https://megabdjos.life/register?ref=3173970");}
 function xtwinbet() {window.open("https://twinbet.asia/");}
 function xdewasloto() {window.open("https://pastidewasloto.click/");}
 function xwanatoto() {window.open("https://3.0.57.84:2828/");}
