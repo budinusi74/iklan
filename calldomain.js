@@ -90,7 +90,7 @@ function xligahoki89() {window.open("https://pulauhoki.lol/register?ref=M3tFPwe"
 function xrajampo() {window.open("https://kuat.rajampoidr.com/register/YGN7NR6L");}
 function xpusaka787() {window.open("https://psk787go.pro/register?ref=RAKUYABA");}
 function xibutogel() {window.open("https://iibutogel.top/");}
-function xsupertogel() {window.open("https://supertttoogel.co/");}
+function xsupertogel() {window.open("https://ssuuppeertogel.com/");}
 function xamavi88() {window.open("https://amavi88d.com/register/W65R5800");}
 function xbaron4d() {window.open("https://vipbaron4d.pro/mobile/register?ref=rakuyaba");}
 function xliga365new() {window.open("https://newliga365k.xyz/?action=register&rc=N8SY7QO738&ci=11");}
