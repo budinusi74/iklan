@@ -24,7 +24,7 @@ function xjackpot168() {window.open("https://jackpot168qq.com/");}
 function xfungame777() {window.open("https://fungame777real.com/");}
 function xluxury333() {window.open("https://luxury333bulat.com/");}
 function xibosport() {window.open("https://v2ibocuan.store/");}
-function xslotmacau188() {window.open("https://slotmacau188daftar.monster/register?ref=Y6XpFBh");}
+function xslotmacau188() {window.open("https://sm188.store/register?ref=Y6XpFBh");}
 function xpiontogel() {window.open("https://piongas.com/link.php?member=rakuyaba");}
 function xtektok77() {window.open("https://situstkt77s.lol/register?ref=cvdwOsa");}
 function xdauntogel() {window.open("https://daunkeren.com/link.php?member=rakuyaba");}
