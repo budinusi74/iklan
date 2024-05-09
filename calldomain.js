@@ -120,7 +120,7 @@ function xgacorboss88() {window.open("https://www.gacorbos88-yok.xyz/register?re
 function xjawara88() {window.open("https://88jawara.store/register?ref=ZABABAW0PJO");}
 function xyakinslot88() {window.open("https://yakinslot88f.com/register/WQ841109");}
 function xpoa88() {window.open("https://poa88cor.lol/?ref=rakuyaba");}
-function xhoki138() {window.open("https://hoki138max.com/");}
+function xhoki138() {window.open("https://hoki138vvip.net/");}
 function xmansion77() {window.open("https://www.mansions777.co/register?ref=4225754");}
 function xtatabet() {window.open("https://tatabet0524.com/");}
 function xsatutogel() {window.open("https://www.xn--satutogel-yv6ni36m.com/");}
