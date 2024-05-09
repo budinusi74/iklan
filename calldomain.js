@@ -77,7 +77,7 @@ function xmpo333bet() {window.open("https://mpo333bet-bir.pro/register?ref=GGGIG
 function x66kone() {window.open("https://66kbet33s.top/?id=82990882&currency=IDR&type=2");}
 function xmpo333() {window.open("https://mpo333j.com/register/YGN4232D");}
 function xnaga007() {window.open("https://anggurpaten.site/register?r=groty8");}
-function xjitu77() {window.open("https://vipjitu77.click/");}
+function xjitu77() {window.open("https://vipjitu77.cyou/");}
 function xeraplay88() {window.open("https://era99top.vip/");}
 function xmpo222() {window.open("https://mpo222team.com/register/WNR6893G");}
 function xmpo111() {window.open("https://mpo111sr.com/register/WNR689Q5");}
