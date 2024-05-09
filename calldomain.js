@@ -28,7 +28,7 @@ function xslotmacau188() {window.open("https://sm188.store/register?ref=Y6XpFBh"
 function xpiontogel() {window.open("https://piongas.com/link.php?member=rakuyaba");}
 function xtektok77() {window.open("https://situstkt77s.lol/register?ref=cvdwOsa");}
 function xdauntogel() {window.open("https://daunkeren.com/link.php?member=rakuyaba");}
-function xindogenting() {window.open("https://www.indogenting0324e.com/");}
+function xindogenting() {window.open("https://indogenting0524b.com/");}
 function xkenzo188() {window.open("https://kenzo188pro.vip/register?ref=A3MMMAF4PO7");}
 function xpmg88() {window.open("https://pmg88daftar.site/register?ref=u2y78Bp");}
 function xagen288() {window.open("https://agen288uu.com/");}
