@@ -108,7 +108,7 @@ function xtwinbet() {window.open("https://twinbet.asia/");}
 function xdewasloto() {window.open("https://pastidewasloto.click/");}
 function xwanatoto() {window.open("https://3.0.57.84:2828/");}
 function xkingtoto() {window.open("https://kingtotoslot.top/");} 
-function xajr88() {window.open("https://ajr88jos.site/");} 
+function xajr88() {window.open("https://ajr88paten.site/");} 
 function xhoki178() {window.open("https://h178top.store/");}
 function xdewagacor77() {window.open("https://slotdewagacor77.vip/");}
 function xkudapoker() {window.open("https://kkuudapokerr.co/");}
