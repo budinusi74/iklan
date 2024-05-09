@@ -82,7 +82,7 @@ function xeraplay88() {window.open("https://era99top.vip/");}
 function xmpo222() {window.open("https://mpo222team.com/register/WNR6893G");}
 function xmpo111() {window.open("https://mpo111sr.com/register/WNR689Q5");}
 function xmpo999() {window.open("https://mpo999.com/register/Y654G7R0");}
-function xmpo777() {window.open("https://mpo777timur.com/register/YGNBJ4MR");}
+function xmpo777() {window.open("https://mpo777on.com/register/YGNBJ4MR");}
 function xcoblos4d() {window.open("https://cobloskamu4d.vip/?ref=rakuyaba");}
 function xagenslot168() {window.open("https://rumahags168.lol/register/Y7G7GR7B");}
 function xamanah77() {window.open("https://amnhxzeus.site/");}
