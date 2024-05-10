@@ -1,4 +1,5 @@
 function xno() {window.open("https://nosafetyy.blogspot.com/");}
+function xhedon77() {window.open("https://hedon77a.lol/daftar?ref_id=5f6e2101");}
 function xsinarmas77() {window.open("https://sinarmas77.xyz/");}
 function xeqn77() {window.open("https://eqn777gaspol.com/register/EVCWMKG6");}
 function xindoslot88() {window.open("https://indoslot88.cfd/");}
