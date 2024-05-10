@@ -10,7 +10,7 @@ function xnexus77() {window.open("https://noblockss.blogspot.com/");}
 function xnusabet() {window.open("https://nusa168.fun/register?ref=4406747");}
 function xtkp303() {window.open("https://tkp333a.com/");}
 function x303hoki() {window.open("https://303hkpecah.com/register/Y66KPQ1K");}
-function xapi77() {window.open("https://api77q.site/account/register/158909985");}
+function xapi77() {window.open("https://sinterfold.com/account/register/158909985");}
 function xcor77() {window.open("https://cor77l.com/register?ref=8GGAEAC1CUR");}
 function xvit88() {window.open("https://vit88link5.store/register?ref=1yKc2W9");}
 function xadipatislot() {window.open("https://adipatislotz.com/");}
