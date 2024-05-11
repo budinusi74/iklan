@@ -360,7 +360,7 @@ hr {
 
 .bgbahaya, .bgwaspada, .bgdomain, .bgchatadmin {
   background-repeat:no-repeat;
-  background-position:center;
+  background-position:top;
   height:500px;
 }  
   
