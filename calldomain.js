@@ -155,7 +155,7 @@ function xnagatop() {window.open("https://nagatop-aman2.online//register?ref=bun
 function xaquaslot() {window.open("https://aquaslotfruit.com/?ref=bunsin");}
 function xome88() {window.open("https://www.ome88.wtf/register?ref=COXGMBL134C");}
 function xmega38() {window.open("https://mg38ku.store/register?ref=naynlqk");}
-function xmpo369() {window.open("https://link-mpo369b.net/register/W7N46140");}
+function xxmpo369() {window.open("https://link-mpo369b.net/register/W7N46140");}
 function xfreebet() {window.open("https://freebetdemo.blogspot.com/");}
 function xchattawk() {window.open("https://tawk.to/chat/65eec9ce8d261e1b5f6b705b/1homc8jr0");}
 function xchatfb() {window.open("https://www.facebook.com/profile.php?id=61553499868790");}
