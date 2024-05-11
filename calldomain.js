@@ -19,7 +19,7 @@ function xlotuspelangi() {window.open("https://lotuspelangi1.com/daftar?ref=raku
 function xbk8() {window.open("https://www.bk8xidjos.com/");}
 function xflash303() {window.open("https://flash303vip.xyz/?ref=rakuyaba");}
 function xfijislot() {window.open("https://fijislot3.store/register?ref=VABAAA10IAH");}
-function xmaxwin88() {window.open("http://maxwin88bos.club/ref/?rid=rf10k5096ef");}
+function xmaxwin88() {window.open("https://maxwin88united.monster/ref/?rid=rf10k5096ef");}
 function xskslot() {window.open("https://bosbca99.com/register?ref=rakuyaba");}
 function xjackpot168() {window.open("https://jackpot168mega.com/");}
 function xfungame777() {window.open("https://fungame777thai.org/");}
