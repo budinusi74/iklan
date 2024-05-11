@@ -259,11 +259,6 @@ font-size: 0.5rem;
   width: 100%;
 }
 
-.ukuranketerangan {
-  height: 450px;
-  width: 100%;
-}
-
 .warnabahaya {
   font-size: xx-large;
   color: red;
@@ -362,6 +357,25 @@ hr {
      width: 100%;
   }
 }  
+
+.bgbahaya, .bgwaspada, .bgdomain, .bgchatadmin {
+  background-repeat:no-repeat;
+  background-position:center;
+  height:500px;
+}  
+  
+.bgbahaya {
+  background-image: url("https://raw.githubusercontent.com/budinusi74/logo/main/bahaya1.png");
+}
+.bgwaspada {
+  background-image: url("https://raw.githubusercontent.com/budinusi74/logo/main/waspada1.png");
+}
+.bgdomain {
+  background-image: url("https://raw.githubusercontent.com/budinusi74/logo/main/updatedomain.png");
+}
+.bgchatadmin {
+  background-image: url("https://raw.githubusercontent.com/budinusi74/logo/main/chatadmin.png");
+}
   
   
 .groupsm {
