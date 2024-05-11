@@ -250,6 +250,7 @@ font-size: 0.5rem;
   background-color: #03a84e;
 }
 .warnatextchat {
+  font-size: xx-large;
   color: blue;
 }
   
@@ -264,6 +265,7 @@ font-size: 0.5rem;
 }
 
 .warnabahaya {
+  font-size: xx-large;
   color: red;
 }
 
