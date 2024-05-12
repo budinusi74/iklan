@@ -85,7 +85,7 @@ function xmpo111() {window.open("https://mpo111sr.com/register/WNR689Q5");}
 function xmpo999() {window.open("https://mpo999.com/register/Y654G7R0");}
 function xmpo777() {window.open("https://mpo777on.com/register/YGNBJ4MR");}
 function xcoblos4d() {window.open("https://cobloskamu4d.vip/?ref=rakuyaba");}
-function xagenslot168() {window.open("https://ags168.pro/register/Y7G7GR7B");}
+function xagenslot168() {window.open("https://memberags168.site/register/Y7G7GR7B");}
 function xamanah77() {window.open("https://amnhxzeus.site/");}
 function xligahoki89() {window.open("https://ligahoki89.baby/register?ref=M3tFPwe");}
 function xrajampo() {window.open("https://id.rajampoidn.com/register/YGN7NR6L");}
