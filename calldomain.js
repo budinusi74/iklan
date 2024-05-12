@@ -71,7 +71,7 @@ function xmpo555() {window.open("https://mpo555-membara.xyz/register/WR3N6NQ9");
 function xkadobet() {window.open("https://kadobetab.com/?ref=rakuyaba");}
 function xsweet777() {window.open("https://www.sweet777d.website/register?ref=GS2AEAB0SVJ");}
 function xhokiwin() {window.open("https://hokiwiny.com/register/Y5NQP87K");}
-function xkas138() {window.open("https://kas138ka.com/?ref=rakuyaba");}
+function xkas138() {window.open("https://kas138kb.com/?ref=rakuyaba");}
 function xjudi388() {window.open("https://jd388asli.top/register?reff=rakuyaba");}
 function xkudetabet98() {window.open("https://kudetabet98okemantap.com/");}
 function xmpo333bet() {window.open("https://mpo333bet-bir.pro/register?ref=GGGIGAM2LH1");}
