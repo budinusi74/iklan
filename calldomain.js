@@ -63,7 +63,7 @@ function xraja168() {window.open("https://slotraja168.vip/register?ref=MKPAFAA02
 function xkiw69() {window.open("https://kiw69maju.com/register?ref=E3MDNAC135S");}
 function xmpo08() {window.open("https://mpo08cam.com/register/WM418MNP");}
 function xwis77() {window.open("https://wis77tiger.com/register/W3KP3LMJ");}
-function xdewa234() {window.open("https://dewa234won.org/register/W42BG936");}
+function xdewa234() {window.open("https://dewa234cart.org/register/W42BG936");}
 function xrajatoto3() {window.open("https://rajatoto3fire.com/register?ref=WnDsxSx8");}
 function xzona66() {window.open("https://zona66w.pro/register/W3KP3MPD");}
 function xmpo666() {window.open("https://mpo666oo.com/register/WM41P433");}
